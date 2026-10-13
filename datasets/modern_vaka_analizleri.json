@@ -1,0 +1,116 @@
+[
+  {
+    "vaka_id": "VAKA-001",
+    "baslik": "48 Saatlik Karma Hackathon ve Ar-Ge İnovasyon Kampı",
+    "senaryo": "Bir teknoloji şirketi veya üniversite kulübü hafta sonu 48 saatlik aralıksız bir kodlama maratonu (hackathon) düzenler. Başörtülü bir kadın yazılımcı, 3 erkek yazılımcı ile aynı takımda yer alır. Gece boyunca aynı masada pizza yerler, uykusuzluk ve yorgunluğun getirdiği gevşemeyle laubali espriler yapılır, sabahın dördünde yer minderlerinde dinlenilir.",
+    "modernist_savunma": "'Biz burada teknoloji üretiyoruz, ülkemize yapay zeka alanında katkı sağlıyoruz. Kafamız kodda, aklımıza cinsiyet mi gelir? Bu bir bilimsel zarurettir.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Halvet yasağı)",
+      "en-Nûr Sûresi, 30-31 (Gadd-ı basar ihlali)",
+      "el-Ahzâb Sûresi, 32 (Sözün ve tavrın laubalileşmesi)",
+      "Mecelle Madde 30 (Def'-i mefâsid celb-i menâfi'den evlâdır)",
+      "Mecelle Madde 21-22 (Hackathon bir hayat-memat zarureti değildir)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Yorgunluk ve uykusuzluk nefsin ve hayânın savunma mekanizmalarını felç eder. İmam Gazâlî'nin 'ünsiyet' dediği gayrimeşru samimiyet birkaç saatte zirveye çıkar. Kutsal sayılan ilim ve teknoloji, harama kılıf haline getirilir.",
+    "fikhi_hukum": "Kadın ve erkeğin geceyi aynı mekanda geçirdiği, mahremiyet ve tecridin kalktığı karma hackathon ve kamplara katılmak fıkhen kesin olarak haramdır.",
+    "mesru_ve_vakarlı_cozum": "Yalnızca kadınlardan oluşan takımlar veya hanımlara özel hackathonlar organize edilmeli; ya da süreçler uzaktan, asenkron ve açık kanallarla yürütülmelidir."
+  },
+  {
+    "vaka_id": "VAKA-002",
+    "baslik": "Gece 23:30'da Slack Birebir DM ile Kod İnceleme ve Şakalaşma",
+    "senaryo": "Kıdemli erkek yazılımcı, junior başörtülü kadın mühendise gece 23:30'da Slack üzerinden birebir DM atarak 'Şu PR'daki bug'a baksana haha, yine ortalığı yakmışsın 😉' yazar. Kadın mühendis de 'Ya sormayın hocam çok yoruldum bugün 🙈' şeklinde yanıt verir. Yazışma teknik konudan çıkıp günün yorgunluğuna ve kişisel esprilere kayar.",
+    "modernist_savunma": "'Fiziksel temas yok, sadece ekran başında yazışıyoruz. Ekipte samimiyet ve esneklik iletişimi hızlandırır.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Tirmizî, Radâ 16 (Siber Halvet ve şeytanın 3. olması)",
+      "el-Ahzâb Sûresi, 32 (Yumuşak eda ve lakayt üslup yasağı)",
+      "Mecelle Madde 22 (Zaruretler kendi miktarınca takdir olunur)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Görünürde masum olan emojiler ve gece yazışmaları, sanal bir yakınlık ve duygusal bağ inşa eder. Evin en mahrem saatinde namahremle girilen bu lakayt iletişim kalpteki takva şuurunu söndürür.",
+    "fikhi_hukum": "Zaruret olmaksızın, mesai saati dışında ve birebir şifreli kanallarda karşı cinsle gayriciddi emojilerle yazışmak haramdır; siber halvet hükmündedir.",
+    "mesru_ve_vakarlı_cozum": "Birebir DM'ler kapatılmalı; teknik incelemeler mesai saatinde, tüm ekibin görebildiği ortak kanalda (örneğin #dev-backend) ve resmi/ciddi bir üslupla yapılmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-003",
+    "baslik": "Yıl Sonu Şirket Kutlama Yemeği ve Happy Hour",
+    "senaryo": "Şirketin başarılı geçen çeyreği şerefine lüks bir restoranda akşam yemeği düzenlenir. Masada alkol tüketenler vardır, yüksek sesli müzik çalmaktadır. Başörtülü çalışan 'dışlanmamak ve ekiple kaynaşmak' amacıyla en şık kıyafetiyle yemeğe katılır; erkek meslektaşlarıyla aynı masada saatlerce kadeh tokuşturanların yanında oturur.",
+    "modernist_savunma": "'Ben alkol almıyorum ki, portakal suyu içiyorum. Şirket içi networking için katılmak zorundayım, aksi halde kariyerim etkilenir.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Tirmizî, Edeb 43 (İçki içilen sofraya oturma yasağı)",
+      "Ebû Dâvûd, Libâs 4 (Fasıkların eğlence tarzına teşebbüh)",
+      "Mecelle Madde 26-30 (Kariyer menfaati için dinin mefsedete atılamayacağı)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Müslüman şahsiyetinin omurgasızlaşması, haramın alenen işlendiği mekanda sessiz kalarak kötülüğü onaylama zilleti.",
+    "fikhi_hukum": "Alkol tüketilen, karma ve gayrimeşru eğlence ortamlarında bulunmak; içki içilmese dahi fıkhen caiz değildir, günahta ortaklıktır.",
+    "mesru_ve_vakarlı_cozum": "Tavizsiz ve vakarlı bir dille bu tür ortamlara katılamayacağı beyan edilmeli; izzetli bir Müslüman tavrı sergilenmelidir."
+  },
+  {
+    "vaka_id": "VAKA-004",
+    "baslik": "Üniversite Amfisinde Proje Grubu ve WhatsApp Laubaliliği",
+    "senaryo": "Mühendislik fakültesinde dönem ödevi için 2 kız, 2 erkek öğrenciden oluşan karma proje grubu kurulur. Açılan WhatsApp grubunda gece yarılarına kadar 'Caps'ler, komik videolar, birbirine takılmalar havada uçuşur. Kütüphanede yan yana saatlerce oturulur, birlikte yemeklere gidilir.",
+    "modernist_savunma": "'Biz öğrenciyiz, okulun verdiği ödevi yapıyoruz. Başka türlü proje yetişmez.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "el-İsrâ Sûresi, 32 (Zinaya giden adımların yasaklığı)",
+      "el-Ahzâb Sûresi, 53 (Mesafe ve hicab emri)",
+      "Mecelle Madde 17 (Ödev zorluğu fıkhî haramı mubah kılmaz)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Gençlik yıllarında kalbin harama karşı bağışıklık kazanması, haya perdesinin erken yaşta yırtılması.",
+    "fikhi_hukum": "Proje bahanesiyle sınırların kalktığı karma çalışma grupları ve laubali yazışmalar caiz değildir.",
+    "mesru_ve_vakarlı_cozum": "Hocadan grubun aynı cinsiyetten teşkil edilmesi talep edilmeli; imkansızsa iletişim sadece teknik metin paylaşımıyla sınırlandırılmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-005",
+    "baslik": "Açık Ofiste Kahve Makinesi Başında 'Dertleşme'",
+    "senaryo": "Şirketin kahve alanında başörtülü çalışan ile erkek meslektaşı kahve hazırlarken karşılaşır. Konuşma 'Bugün canım çok sıkkın, yönetici beni çok bunalttı' diyerek başlar; özel hayat dertleşmelerine, ailevi meselelere ve duygusal yakınlaşmaya evrilir.",
+    "modernist_savunma": "'İnsan sosyal bir varlıktır, ofiste insan insana konuşmayacak mıyız? Ruhumuz daralıyor.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Selâm 20 (Kayınbirader hadisi / tanıdık tehlikesi)",
+      "el-Ahzâb Sûresi, 32 (Sözün mahiyeti)",
+      "Mecelle Madde 22 (Zaruret miktarınca kalmama ihlali)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Duygusal sadakatsizlik tohumlarının atılması; karşı cins meslektaşın eşten veya aileden daha yakın bir 'sırdaş' haline getirilmesi.",
+    "fikhi_hukum": "Karşı cinsle zaruret dışı özel hayat, dertleşme ve duygusal paylaşım içine girmek sedd-i zerai kaidesiyle men edilmiştir.",
+    "mesru_ve_vakarlı_cozum": "Kahve alındıktan sonra bekleme yapılmadan çalışma alanına dönülmeli; selamdan sonra derin sohbetlere girilmemelidir."
+  },
+  {
+    "vaka_id": "VAKA-006",
+    "baslik": "Şehir Dışı Müşteri Ziyareti ve Erkek Yönetici ile Aynı Araç/Otelde Seyahat",
+    "senaryo": "Yazılım şirketinin kadın satış mühendisi, erkek yöneticisiyle birlikte 400 km uzaktaki bir müşteriye sunum yapmak üzere şirket aracıyla yola çıkar. Yolda baş başa saatlerce seyahat edilir, akşam aynı otelde farklı odalarda konaklanır ve akşam yemeği baş başa yenir.",
+    "modernist_savunma": "'Bu iş seyahatidir, şirketin resmi görevidir. Göreve gitmezsek kovuluruz.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Taksîr 4 (Mahremsiz sefer yasağı)",
+      "Buhârî, Nikâh 111 (Araçta baş başa kalma - halvet)",
+      "Mecelle Madde 26 (Maddi kayıp, manevi helakten hafiftir)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Kadının fıtrî vakarının ve himayesinin piyasa çarkları için kurban edilmesi.",
+    "fikhi_hukum": "Yanında mahremi olmaksızın yabancı bir erkekle aynı araçta uzun yolculuk yapmak ve konaklamak kesinlikle caiz değildir; halvet ve sefer hükümlerinin ihlalidir.",
+    "mesru_ve_vakarlı_cozum": "Şirkete şehir dışı seyahatlere katılamayacağı açıkça belirtilmeli; gerektiğinde bu şartı kabul etmeyen işten ayrılma fazileti gösterilmelidir."
+  },
+  {
+    "vaka_id": "VAKA-007",
+    "baslik": "Startup Kurucusu Kadının 'Erkek Yatırımcı Ağı (Networking)' Baskısı",
+    "senaryo": "Teknoloji girişimi kuran başörtülü genç kadın, tohum yatırım alabilmek için karma networking kokteyllerine katılır. Erkek melek yatırımcılara şirin görünmek, onları ikna etmek için cilveli ve sempatik bir beden dili kullanması gerektiği telkin edilir.",
+    "modernist_savunma": "'Girişimcilik ekosistemi böyle işler. Samimi ve enerjik olmazsan kimse para yatırmaz. Müslüman kadınlar da unicorn çıkarmalı!'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "el-Ahzâb Sûresi, 32 (Yumuşak ve cilveli konuşma yasağı)",
+      "Mecelle Madde 99 (Vaktinden evvel isti'cal eyleyen mahrumiyetle cezalandırılır)",
+      "Mecelle Madde 30 (Maddi fon menfaati, iffet mefsedetinin önünde olamaz)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Sermaye bulma uğruna ilahi izzetin ayaklar altına alınması; 'başarı' fetişizminin dini hudutları çiğnetmesi.",
+    "fikhi_hukum": "Finansman bulmak gerekçesiyle kadınlığını veya cazibesini pazarlama vasıtası kılmak şer'an haramdır.",
+    "mesru_ve_vakarlı_cozum": "Yatırım sunumları objektif verilerle, resmi ve vakarlı toplantılarda yapılmalı; kokteyl ortamlarından uzak durulmalı, gerekirse helal sermaye ortaklıkları aranmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-008",
+    "baslik": "Cam Kapılı Toplantı Odasında 'Birebir Mentorluk' Seansı",
+    "senaryo": "Kurumsal şirkette erkek direktör, başörtülü stajyer kızı 'kariyer gelişimi ve performans değerlendirmesi' için cam kapılı bir toplantı odasına çağırır. Kapı kapatılır; dışarıdan içerisi görünmektedir fakat içeride ne konuşulduğu duyulmamaktadır. Görüşme 1.5 saat sürer.",
+    "modernist_savunma": "'Kapı camdan, her yer açık, halvet sayılmaz. Bu standart bir İK prosedürüdür.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Halvet-i maneviyye)",
+      "Tirmizî, Radâ 16 (Şeytanın üçüncü olması)",
+      "Sedd-i Zerâi ilkesi"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Güç ve hiyerarşi dengesizliği altında genç kadının manevi olarak baskı altına girmesi ve zihinsel sınırlarının esnetilmesi.",
+    "fikhi_hukum": "Sesin duyulmadığı, baş başa kalınan cam mekanlar fıkhen 'hükmî halvet' şüphesi taşır; kapının açık tutulması veya üçüncü bir kişinin bulunması şarttır.",
+    "mesru_ve_vakarlı_cozum": "Kapı mutlaka aralık bırakılmalı veya toplantıya bir kadın İK temsilcisinin refakat etmesi talep edilmelidir."
+  }
+]

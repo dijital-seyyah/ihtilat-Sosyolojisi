@@ -1,0 +1,132 @@
+[
+  {
+    "id": "NASS-001",
+    "tur": "ayet",
+    "kaynak": "en-Nûr Sûresi, 30",
+    "arapca": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+    "turkce": "Mümin erkeklere söyle, gözlerini haramdan sakınsınlar ve ırzlarını korusunlar. Bu onlar için daha temizdir. Şüphesiz Allah, onların yaptıklarından hakkıyla haberdardır.",
+    "baglam_ve_serh": "İbn Kesîr tefsirinde, gözü haramdan sakınmanın (gadd-ı basar) ırzı korumanın ön şartı olduğunu vurgular. Harama bakmak kalbe atılan zehirli bir oktur. Ayette emrin önce erkeklere yöneltilmesi, sorumluluğun öncelikle erkekte olduğunu gösterir.",
+    "temalar": ["gadd-ı basar", "bakış tesettürü", "erkek mesuliyeti", "iffet", "sedd-i zerai"],
+    "modern_uygulama": "Karma açık ofislerde, toplantılarda ve dijital ekranlarda meslektaş kadınlara lüzumsuz ve dikkatli bakmaktan kaçınmak; gözü haramdan ve süfli meraklardan korumak."
+  },
+  {
+    "id": "NASS-002",
+    "tur": "ayet",
+    "kaynak": "en-Nûr Sûresi, 31",
+    "arapca": "وَقُل لِّلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ",
+    "turkce": "Mümin kadınlara da söyle, gözlerini haramdan sakınsınlar ve ırzlarını korusunlar; (kendiliğinden) görünen kısımlar müstesna, ziynetlerini göstermesinler ve başörtülerini yakalarının üzerine salsınlar...",
+    "baglam_ve_serh": "Kurtubî ve Cessâs, bu ayetin cahiliye kadınlarının başörtülerini arkaya atıp boyun ve gerdanlarını açıkta bırakma adetini ilga ettiğini belirtir. Kadının da gözünü sakınması emredilmiş, başörtüsü göğsü de örtecek şekilde emredilmiştir.",
+    "temalar": ["tesettür", "gadd-ı basar", "ziynet", "vakar", "setr-i avret"],
+    "modern_uygulama": "Başörtüsünün dar giysilerle veya boynu açıkta bırakacak şallarla dejenere edilmesini reddetmek; kadının da iş yerinde veya amfide erkek meslektaşlarını süzmesini nehyetmek."
+  },
+  {
+    "id": "NASS-003",
+    "tur": "ayet",
+    "kaynak": "el-Ahzâb Sûresi, 32",
+    "arapca": "فَلَا تَخْضَعْنَ بِالْقَوْلِ فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+    "turkce": "…Eğer Allah’tan korkuyorsanız, yabancı erkeklere karşı yumuşak ve cilveli bir eda ile konuşmayın ki, kalbinde hastalık bulunan kimse kötü şeyler ümit etmesin. Daima ciddi ve ağırbaşlı (ma'rûf) söz söyleyin.",
+    "baglam_ve_serh": "Fahreddin er-Râzî, bu yasağın sesin tınısına, tonlamasına ve üslubuna yönelik olduğunu ifade eder. 'Kalbinde hastalık bulunan' ifadesi fısk ve şehvet zaafını temsil eder. Ciddi ve mesafeli bir konuşma (kavlen ma'rûfen), suistimalleri baştan engeller.",
+    "temalar": ["ses tesettürü", "hitap tarzı", "laubalilik yasağı", "kavlen ma'rûfen", "kalp hastalığı"],
+    "modern_uygulama": "Plazada, Slack yazışmalarında veya telefon görüşmelerinde cilveli tonlamaları, samimi esprileri, kalp/gülümseme emojilerini terk edip sadece teknik ve ağırbaşlı bir dil kullanmak."
+  },
+  {
+    "id": "NASS-004",
+    "tur": "ayet",
+    "kaynak": "el-Ahzâb Sûresi, 53",
+    "arapca": "وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ",
+    "turkce": "…Onlardan (Peygamberin hanımlarından) bir şey istediğiniz zaman perde (hicâb) arkasından isteyin. Bu, hem sizin kalpleriniz hem de onların kalpleri için daha temizdir...",
+    "baglam_ve_serh": "Taberî ve İbn Teymiyye, bu âyetin sadece Annelerimize mahsus olmayıp, 'kalplerin temizliği' illeti sebebiyle bütün mümin kadın ve erkekler için sedd-i zerai prensibini tesis ettiğini belirtir. Fiziksel ve sosyal bariyerler kalbin manevi selametini temin eder.",
+    "temalar": ["hicab", "perde arkası", "kalp temizliği", "mesafe", "sedd-i zerai"],
+    "modern_uygulama": "Açık ofislerde paravanların, bağımsız çalışma alanlarının oluşturulması; fiziksel ve dijital bariyerlerin 'kalp temizliği' için bir zorunluluk olduğunun idraki."
+  },
+  {
+    "id": "NASS-005",
+    "tur": "ayet",
+    "kaynak": "el-İsrâ Sûresi, 32",
+    "arapca": "وَلَا تَقْرَبُوا الزِّنَىٰ ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+    "turkce": "Zinaya yaklaşmayın! Çünkü o, son derece çirkin bir hayasızlık ve çok kötü bir yoldur.",
+    "baglam_ve_serh": "Ayet 'zina etmeyin' dememiş, 'zinaya yaklaşmayın' buyurmuştur. Bu, fıkhın sedd-i zerai kuralının en açık nassıdır. Zinaya götüren bakış, halvet, laubali sohbet, ihtilat ve temas baştan haram kılınmıştır.",
+    "temalar": ["sedd-i zerai", "zinaya yaklaşmama", "koruyucu tedbir", "ihtilat yasağı"],
+    "modern_uygulama": "Gece mesailerinde tek başına kalmak, şirket partilerine katılmak, namahremle yalnız yolculuk yapmak gibi zinaya davetiye çıkaran ortamları tamamen reddetmek."
+  },
+  {
+    "id": "NASS-006",
+    "tur": "hadis",
+    "kaynak": "Buhârî, Nikâh 111; Müslim, Hacc 424",
+    "arapca": "لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا وَمَعَهَا ذُو مَحْرَمٍ",
+    "turkce": "Hiçbir erkek, yanında mahremi bulunmayan yabancı bir kadınla asla baş başa (halvet halinde) kalmasın.",
+    "baglam_ve_serh": "Nevevî şerhinde, bu yasağın icma ile sabit olduğunu ve hem erkek hem kadın için haram kılındığını açıklar. Yanlarında üçüncü bir güvenilir şahıs veya mahrem yoksa kapalı bir odada veya tenhada bulunmak fıkhen memnûdur.",
+    "temalar": ["halvet", "mahremiyet", "sedd-i zerai", "koruma"],
+    "modern_uygulama": "Toplantı odasında kapıyı kapatıp iki kişi kalmak, asansörde yalnız kalmamaya özen göstermek, birebir DM veya şifreli görüntülü aramalarda üçüncü bir denetleyici bulundurmak."
+  },
+  {
+    "id": "NASS-007",
+    "tur": "hadis",
+    "kaynak": "Tirmizî, Radâ 16, Fiten 7",
+    "arapca": "أَلَا لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا كَانَ ثَالِثَهُمَا الشَّيْطَانُ",
+    "turkce": "Dikkat edin! Bir erkekle yabancı bir kadın baş başa kalırsa, onların üçüncüsü mutlaka şeytandır.",
+    "baglam_ve_serh": "Münâvî *Feyzü'l-Kadîr*de, şeytanın bu iki kişi arasına girip kalplerine vesvese fısıldayacağını, günahı süslü göstereceğini ve fıtrî çekimi harama sevk edeceğini belirtir. Kişinin 'ben niyetimden eminim' demesi hadisin genel hükmünü boşa çıkaramaz.",
+    "temalar": ["şeytanın vesvesesi", "halvet", "sahte güvenin reddi", "fıtrî zaaf"],
+    "modern_uygulama": "Profesyonellik adı altında yalnız yapılan proje toplantılarını, danışmanlık seanslarını ve siber halvet ortamlarını hadisin uyarısıyla derhal sonlandırmak."
+  },
+  {
+    "id": "NASS-008",
+    "tur": "hadis",
+    "kaynak": "Müslim, Salât 132; Ebû Dâvûd, Salât 97",
+    "arapca": "خَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا، وَشَرُّهَا آخِرُهَا، وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا، وَشَرُّهَا أَوَّلُهَا",
+    "turkce": "Erkek saflarının en hayırlısı ilk saf, en şerlisi son saftır. Kadın saflarının en hayırlısı ise son saf, en şerlisi ilk saftır.",
+    "baglam_ve_serh": "İbadet gibi en mukaddes ve kalbin huşu içinde olduğu bir mekanda dahi İslam, kadın ile erkeğin fiziksel olarak birbirinden en uzak mesafede durmasını emretmiştir. Kadınların arka saflara alınması onların değerini düşürmek için değil, her iki cinsin zihnini ve ibadetini fitneden korumak içindir.",
+    "temalar": ["mesafe", "ibadet nizamı", "mekânsal ayrışma", "fitneden uzak durma"],
+    "modern_uygulama": "Camide dahi yan yana durulmasına izin verilmeyen bir dinin amfilerde, ofis masalarında ve Ar-Ge laboratuvarlarında omuz omuza oturmaya cevaz vermeyeceğinin açık delili."
+  },
+  {
+    "id": "NASS-009",
+    "tur": "hadis",
+    "kaynak": "Ebû Dâvûd, Salât 53",
+    "arapca": "لَوْ تَرَكْنَا هَذَا الْبَابَ لِلنِّسَاءِ",
+    "turkce": "Resûlullah (s.a.v.) Mescid-i Nebevî'nin bir kapısını işaret ederek: 'Keşke bu kapıyı kadınlara ayırsak!' buyurdu. Râvi Nâfi' der ki: 'İbn Ömer vefat edene kadar o kapıdan mescide hiç girmedi.'",
+    "baglam_ve_serh": "Resûlullah (s.a.v.) giriş-çıkış esnasında dahi kadın ve erkeğin birbirine değmesini, kapıda sıkışmasını engellemek için bağımsız kapı tayin etmiştir. Sahabenin bu sünnete bağlılığı ihtilat hassasiyetinin boyutunu sergiler.",
+    "temalar": ["müstakil girişler", "sahabe hassasiyeti", "mescid nizamı", "fiziksel izolasyon"],
+    "modern_uygulama": "Kurumlarda, okullarda ve tesislerde kadın ve erkekler için ayrı giriş-çıkışların, dinlenme salonlarının ve yemek alanlarının tanzim edilmesinin sünnete uygunluğu."
+  },
+  {
+    "id": "NASS-010",
+    "tur": "hadis",
+    "kaynak": "Ebû Dâvûd, Edeb 168",
+    "arapca": "اسْتَأْخِرْنَ فَإِنَّهُ لَيْسَ لَكُنَّ أَنْ تَحْقُقْنَ الطَّرِيقَ، عَلَيْكُنَّ بِحَافَّاتِ الطَّرِيقِ",
+    "turkce": "Resûlullah (s.a.v.) mescidden çıkışta kadın ve erkeklerin yolda karıştığını görünce kadınlara: 'Geri durunuz; yolun ortasından gitmeniz doğru değildir, yolun kenarlarından gidiniz!' buyurdu.",
+    "baglam_ve_serh": "Hadisin ravisi Ebû Useyd der ki: 'Bu buyruktan sonra kadınlar duvar diplerine öyle yanaşırlardı ki elbiseleri duvara sürtünürdü.' Bu vaka sokakta dahi fıtrî ve edepli mesafenin korunmasının gerekliliğini ortaya koyar.",
+    "temalar": ["sokak adabı", "yol kenarı", "ihtilattan sakınma", "edep"],
+    "modern_uygulama": "Plaza koridorlarında, asansör önlerinde ve kampüs yollarında fıtrî mesafeyi gözetmek; karşı cinsin yolunu kesmemek ve vakarlı yürüyüş sergilemek."
+  },
+  {
+    "id": "NASS-011",
+    "tur": "hadis",
+    "kaynak": "Buhârî, Nikâh 111; Müslim, Selâm 20",
+    "arapca": "إِيَّاكُمْ وَالدُّخُولَ عَلَى النِّسَاءِ. فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَفَرَأَيْتَ الْحَمْوَ؟ قَالَ: الْحَمْوُ الْمَوْتُ",
+    "turkce": "Resûlullah (s.a.v.): 'Kadınların yanına girmekten sakının!' buyurdu. Ensar'dan biri: 'Ey Allah'ın Resûlü, kayınbirader (akraba olan erkekler) hakkında ne buyurursunuz?' dedi. Resûlullah: 'Kayınbirader ölümdür!' buyurdu.",
+    "baglam_ve_serh": "Nevevî şerhinde açıklar: İnsanlar yabancıdan çekinir fakat yakın akrabadan ve tanıdıklardan şüphelenmezler; dolayısıyla fitne en çok 'biz yabancı değiliz, aile dostuyuz' denilen kapılardan girer. 'Ölümdür' ifadesi dinin ve ahlakın helakini haber verir.",
+    "temalar": ["kayınbirader hadisi", "ünsiyet tehlikesi", "tanıdık fitnesi", "şiddetli uyarı"],
+    "modern_uygulama": "'Biz aynı şirketteyiz', 'Biz meslektaşız', 'Biz proje arkadaşıyız' denilerek gevşetilen sınırların fıkhî vahametini kavramak; tanıdık olmanın mesafeyi kaldırmadığını idrak etmek."
+  },
+  {
+    "id": "NASS-012",
+    "tur": "hadis",
+    "kaynak": "Müslim, Libâs 125",
+    "arapca": "صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا... وَنِسَاءٌ كَاسِيَاتٌ عَارِيَاتٌ مُمِيلَاتٌ مَائِلَاتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ، لَا يَدْخُلْنَ الْجَنَّةَ وَلَا يَجِدْنَ رِيحَهَا",
+    "turkce": "Ateş ehlinden iki sınıf vardır ki henüz onları görmedim: ... Biri de giyinik oldukları halde çıplak olan (kâsiyâtün âriyât), erkekleri kendilerine meyleden ve kendileri de meyleden, başları deve hörgücü gibi olan kadınlardır. Bunlar cennete giremez, kokusunu dahi alamazlar...",
+    "baglam_ve_serh": "Ulema bu hadisi dar, şeffaf veya vücut hatlarını teşhir eden kıyafetler giyenler; şeklen örtülü olup manen çıplak olanlar ve davranışlarıyla karşı cinsi cezbedenler olarak şerh etmiştir.",
+    "temalar": ["kâsiyâtün âriyât", "şekli tesettür eleştirisi", "ahiret uyarısı", "moda tuzağı"],
+    "modern_uygulama": "Kafasında şal olup üzerinde dar pantolon veya makyajla dolaşan modern prototipin fıkhî tehlikesini görmek; tesettürü süs değil örtü olarak telakki etmek."
+  },
+  {
+    "id": "NASS-013",
+    "tur": "hadis",
+    "kaynak": "Ebû Dâvûd, Libâs 4; Ahmed b. Hanbel, Müsned II, 50",
+    "arapca": "مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ",
+    "turkce": "Kim bir kavme benzemeye çalışırsa, o da onlardandır.",
+    "baglam_ve_serh": "İbn Teymiyye *İktizâu's-Sırâti'l-Müstakîm* adlı eserinde, gayrimüslimlerin veya fasıkların yaşam biçimlerine, ritüellerine, kurumlarına ve adetlerine benzemenin zamanla kalbî muhabbet ve inanç erozyonuna yol açacağını delilleriyle ispatlar.",
+    "temalar": ["teşebbüh", "asimilasyon", "kimlik muhafazası", "kültürel emperyalizm"],
+    "modern_uygulama": "Batı menşeli açık ofis kültürünü, kurumsal happy hour'ları, uniseks çalışma anlayışını sorgulamadan benimsemekten vazgeçmek; İslami kimliği kurumsal kültüre kurban etmemek."
+  }
+]

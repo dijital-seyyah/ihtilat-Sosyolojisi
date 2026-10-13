@@ -1,0 +1,98 @@
+[
+  {
+    "madde_no": 2,
+    "osmanlica": "Bir işden maksad ne ise hüküm ana göredir.",
+    "arapca_kaide": "الأمور بمقاصدها (el-Umûru bi-makâsıdihâ)",
+    "anlam_ve_serh": "Ameller niyetlere göredir. Yapılan bir eylemin şer'î meşruiyeti ve ahlaki değeri, failin gayesi ve hedeflenen netice ile doğrudan irtibatlıdır. Ancak haram bir vasıta, iyi bir niyetle helal kılınamaz.",
+    "ihtilat_ve_calisma_izdusumu": "Karma ortamlara 'Benim niyetim sadece rızık kazanmak veya kendimi geliştirmek' diyerek girmek, haram olan ihtilat ve halvet fiilini meşru kılmaz. Niyetin sahihliği, şeriatın meşru gördüğü yollarla kayıtlıdır.",
+    "keywords": ["niyet", "maksat", "ameller", "meşruiyet", "hüküm"]
+  },
+  {
+    "madde_no": 17,
+    "osmanlica": "Meşakkat teysîri celb eder.",
+    "arapca_kaide": "المشقة تجلب التيسير (el-Meşakkatü teclibü't-teysîr)",
+    "anlam_ve_serh": "Darlık ve sıkıntı halinde şeriat kolaylık hükümlerini devreye sokar. Ancak bu meşakkat, şer'î kaidelere aykırı düşecek keyfi zorluklar değil; mükellefin tahammülünü aşan nesnel zorluklardır.",
+    "ihtilat_ve_calisma_izdusumu": "Modernistlerin 'Ayrı çalışmak zor, piyasa karma yapıyı dayatıyor' iddiası bir meşakkat değil, seküler nizama teslimiyettir. Meşakkat, haram olan ihtilatı helal kılmaz; alternatif helal kazanç arayışını emreder.",
+    "keywords": ["meşakkat", "kolaylık", "ruhsat", "zorluk", "şeriat"]
+  },
+  {
+    "madde_no": 21,
+    "osmanlica": "Zarûretler memnû' olan şeyleri mübâh kılar.",
+    "arapca_kaide": "الضرورات تبيح المحظورات (ed-Darûrâtü tübîhu'l-mahzûrât)",
+    "anlam_ve_serh": "Ölüm, açlıktan helak olma, can, akıl veya namusun zayi olması gibi kaçınılmaz zaruret hallerinde, normalde yasak olan fiiller geçici olarak mübah hale gelir.",
+    "ihtilat_ve_calisma_izdusumu": "Karma bir ofiste yazılım mühendisi olmak, bir plazada yönetici yardımcılığı yapmak veya karma amfide diploma almak şer'an 'zaruret' (hayat-memat meselesi) değildir. Bu sebeple memnu olan ihtilata ruhsat teşkil etmez.",
+    "keywords": ["zaruret", "memnu", "mubah", "hayat-memat", "yasaklar"]
+  },
+  {
+    "madde_no": 22,
+    "osmanlica": "Zarûretler kendi miktarlarınca takdîr olunurlar.",
+    "arapca_kaide": "الضرورات تقدر بقدرها (ed-Darûrâtü tukadderu bi-kaderihâ)",
+    "anlam_ve_serh": "Zaruret sebebiyle işlenen yasak, yalnızca o zarureti bertaraf edecek en asgari ölçüde sınırlı tutulmalıdır. Zaruret hududunu aşan her fazlalık derhal asıl hükmü olan haramlığa döner.",
+    "ihtilat_ve_calisma_izdusumu": "Zorunlu bir resmi dairede veya acil bir işte kadın ve erkek muhatap olmak zorunda kaldığında; sadece işin gerektirdiği kelime ve saniyeyle yetinilmelidir. Kahve sohbeti, espriler, sosyal arkadaşlık bu kaideyi doğrudan çiğner.",
+    "keywords": ["zaruret miktarı", "sınır", "asgari temas", "ölçü", "lüksün reddi"]
+  },
+  {
+    "madde_no": 26,
+    "osmanlica": "Zarar-ı eşed, zarar-ı ehaff ile izâle olunur.",
+    "arapca_kaide": "الضرر الأشد يزال بالضرر الأخف",
+    "anlam_ve_serh": "Daha ağır ve şiddetli olan zarar, daha hafif olan zarara katlanılarak bertaraf edilir.",
+    "ihtilat_ve_calisma_izdusumu": "İnançlı bir fert için 'işsiz kalmak veya daha düşük maaşlı müstakil bir işte çalışmak' hafif zarar (dünyevi kayıp) iken; 'ihtilat, göz zinası ve imanın zedelenmesi' eşed zarardır (ahiret kaybı). Dolayısıyla kariyer kaybı göze alınır, ahlak feda edilmez.",
+    "keywords": ["şiddetli zarar", "hafif zarar", "ahiret önceliği", "tercih", "fedakarlık"]
+  },
+  {
+    "madde_no": 27,
+    "osmanlica": "İki fesâd teâruz etdikde eşeddinden irtikâb-ı ehaf ile ihtirâz olunur.",
+    "arapca_kaide": "إذا تعارض مفسدتان روعي أعظمهما بارتكاب أخفهما",
+    "anlam_ve_serh": "Kaçınılmaz iki kötülük karşı karşıya geldiğinde, en büyüğünden kaçınmak için daha hafifi tercih edilir.",
+    "ihtilat_ve_calisma_izdusumu": "Toplumda dışlanmak, terfi alamamak veya unvansız kalmak küçük bir fesattır; harama alışıp kalbi öldürmek ve nesli ifsada uğratmak büyük fesattır.",
+    "keywords": ["iki fesat", "ehven-i şer", "büyük fesat", "küçük fesat", "terazileme"]
+  },
+  {
+    "madde_no": 30,
+    "osmanlica": "Def'-i mefâsid celb-i menâfi'den evlâdır.",
+    "arapca_kaide": "درء المفاسد أولى من جلب المصالح (Dar'u'l-mefâsid evlâ min celbi'l-masâlih)",
+    "anlam_ve_serh": "Fıkıh usulünün ana direğidir. Zararları ve kötülükleri bertaraf etmek, birtakım faydalar elde etmeye çalışmaktan çok daha öncelikli ve üstündür.",
+    "ihtilat_ve_calisma_izdusumu": "Plaza veya karma okul; 'yüksek maaş, prestijli diploma, network' gibi faydalar (menfaat) vaat etse de, beraberinde getirdiği 'mahremiyet ihlali, siber halvet, edep erozyonu' gibi zararları (mefsedet) defetmek şer'an mutlak surette önceliklidir.",
+    "keywords": ["def-i mefasid", "celb-i menafi", "öncelik", "kötülüğü savmak", "fayda analizi"]
+  },
+  {
+    "madde_no": 31,
+    "osmanlica": "Zarar bi-kaderi'l-imkân def' olunur.",
+    "arapca_kaide": "الضرر يدفع بقدر الإمكان",
+    "anlam_ve_serh": "Kişi bir zararı tamamen ortadan kaldıramıyorsa bile, elinden gelen imkanlar nispetinde onu asgariye indirmekle mükelleftir.",
+    "ihtilat_ve_calisma_izdusumu": "Çalışma ortamında tamamen tek başına kalamayan fert; en azından açık kanallarda yazışmalı, emojileri terk etmeli, mesai dışı iletişimi kesmeli ve fiziksel mesafesini maksimize etmelidir.",
+    "keywords": ["zararın defi", "imkan nispetinde", "asgariye indirme", "sorumluluk"]
+  },
+  {
+    "madde_no": 33,
+    "osmanlica": "Hâcet, umûmî olsun husûsî olsun, zarûret menzilesine tenzîl olunur.",
+    "arapca_kaide": "الحاجة تنزل منزلة الضرورة عامة كانت أو خاصة",
+    "anlam_ve_serh": "Bütün toplumu ilgilendiren yaygın ihtiyaçlar veya özel mesleki zaruretler, bazı kolaylaştırıcı akit ve kurallarda zaruret gibi kabul edilebilir. Ancak bu kaide asla kat'î haramları ve nassla sabit ahlaki yasakları ilga edemez.",
+    "ihtilat_ve_calisma_izdusumu": "Piyasanın genel yapısının karma olması, Müslüman fert için ihtilatı mubah kılan bir 'genel hacet' sayılmaz. Şâtıbî'nin belirttiği üzere, dinin muhafazası (hıfzu'd-din) tüm iktisadi hacetlerin üstündedir.",
+    "keywords": ["hacet", "zaruret menzilesi", "hıfzu'd-din", "yanlış yorumlar"]
+  },
+  {
+    "madde_no": 36,
+    "osmanlica": "Âdet muhakkemdir.",
+    "arapca_kaide": "العادة محكمة (el-Âdetü muhakkeme)",
+    "anlam_ve_serh": "Toplumda yerleşmiş örf ve adetler, nassa muhalif olmamak şartıyla hukuki hükümlere dayanak olur. Ancak Kur'an ve Sünnet'e aykırı olan örf 'fasid örf'tür ve hükümsüzdür.",
+    "ihtilat_ve_calisma_izdusumu": "'Bugün bütün dünyada şirketler karma çalışıyor, adet böyle oldu' söylemi fasid örftür. Zira Nûr 30-31 ve Ahzâb 32'ye açıkça muhaliftir. Nassın karşısında batıl adetlerin hiçbir kıymeti yoktur.",
+    "keywords": ["örf", "adet", "fasid örf", "nassa muhalefet", "batıl teamül"]
+  },
+  {
+    "madde_no": 39,
+    "osmanlica": "Ezmânın tagayyürü ile ahkâmın tagayyürü inkâr olunamaz.",
+    "arapca_kaide": "لا ينكر تغير الأحكام بتغير الأزمان",
+    "anlam_ve_serh": "Zamanın değişmesiyle değişebilecek hükümler, yalnızca örfe ve maslahata dayalı içtihadi tâlî meselelerdir. Dinin temel akidesi, ahlakı, kat'î haramları ve mahremiyet sınırları zamanla asla değişmez.",
+    "ihtilat_ve_calisma_izdusumu": "'Devir değişti, artık 21. yüzyıldayız, kadın-erkek ayrımı kalmadı' demek bu kaideyi tahrif etmektir. İhtilat ve halvet yasağı zamana bağlı bir örf değil, vahiyle sabit fıtrî ve kalıcı bir şeriat ilkesidir.",
+    "keywords": ["zamanın değişmesi", "değişmeyen ahkam", "kat'i nass", "modernist saptırma"]
+  },
+  {
+    "madde_no": 99,
+    "osmanlica": "Bir şeyi vaktinden evvel isti'câl eyleyen kimse anun mahrûmiyetiyle mu'âteb olur.",
+    "arapca_kaide": "من استعجل الشيء قبل أوانه عوقب بحرمانه",
+    "anlam_ve_serh": "Meşru vaktinden önce, gayrimeşru vasıtalarla bir neticeye ulaşmaya acele eden kimse, o neticeden tamamen mahrum bırakılarak cezalandırılır.",
+    "ihtilat_ve_calisma_izdusumu": "Helal yoldan ve meşru sınırlar içinde rızık ve kariyer aramak yerine; karma ortamlara dalarak aceleyle dünyalık ve unvan devşirmeye koşan fert, kalbinin selametinden, ibadetlerinin feyzinden ve takvanın saadetinden mahrum kalır.",
+    "keywords": ["acelecilik", "mahrumiyet", "gayrimeşru kazanç", "ceza", "vaktinden evvel"]
+  }
+]
