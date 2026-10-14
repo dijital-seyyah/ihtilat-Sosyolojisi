@@ -58,12 +58,12 @@ Bu repo, salt bir okuma metni olmanın ötesinde; Büyük Dil Modelleri (LLM) ve
 
 ```text
 /ihtilat-sosyolojisi
-├── README.md                                                   # Proje manifestosu ve ana rehber
+├── README.md                                                   # Proje manifestosu ve ansiklopedik rehber
 ├── LICENSE                                                     # MIT Lisansı
 ├── .gitignore                                                  # Geliştirici ve ortam kuralları
-├── docs/                                                       # Teorik Çerçeve ve Sosyolojik Tahliller
-│   ├── 01_tesettur_gaddi_basar_ve_ihtilat.md                   # Gadd-ı basar, sedd-i zerai ve ünsiyet
-│   ├── 02_mecelle_kaideleri_ve_zaruret_sinirlari.md            # Zaruret, hâcet ve lüks hiyerarşisi
+├── docs/                                                       # Teorik Çerçeve ve Sosyolojik Tahliller (15 Doküman)
+│   ├── 01_tesettur_gaddi_basar_ve_ihtilat.md                   # Gadd-ı basar, sedd-i zerai ve ünsiyet tahlili
+│   ├── 02_mecelle_kaideleri_ve_zaruret_sinirlari.md            # Zaruret, hâcet ve lüks hiyerarşisi (Şâtıbî & Mecelle)
 │   ├── 03_kalkandan_kimlik_kartina_donusum_ve_sahte_guven.md   # Bourdieu & Baudrillard analizi, vicdani narkoz
 │   ├── 04_plaza_kulturu_ve_profesyonellik_illuzyonu.md         # Foucault (Panoptikon), Agile ritüelleri ve DEI
 │   ├── 05_siber_halvet_ve_dijital_ihtilat.md                   # Postman (Teknopoli), Slack DM ve emoji dili
@@ -72,16 +72,22 @@ Bu repo, salt bir okuma metni olmanın ötesinde; Büyük Dil Modelleri (LLM) ve
 │   ├── 08_dort_mezhebin_ihtilat_ve_halvet_ictihatlari.md       # Hanefi, Maliki, Şafii, Hanbeli icmaları ve musafaha
 │   ├── 09_kapitalizm_kadin_emegi_ve_ailenin_tasfiyesi.md       # Ucuz iş gücü, demografik çöküş ve nafaka modeli
 │   ├── 10_psikososyal_tahribat_ve_cinsiyetsizlesme.md          # Androjin insan, deyyusluk ve gayretin kaybı
-│   └── 11_mustakil_islami_ekosistem_ve_cozum_modeli.md         # Tek cinsiyetli enstitüler, remote kadın ajansları
-├── articles/                                                   # Yayınlanmış Manifestolar
+│   ├── 11_mustakil_islami_ekosistem_ve_cozum_modeli.md         # Tek cinsiyetli enstitüler, remote kadın ajansları
+│   ├── 12_osmanli_ve_islam_tarihinde_mekan_sosyolojisi.md      # Haremlik-selamlık, döner dolap, tokmak ve Bacıyan-ı Rum
+│   ├── 13_feminizm_ve_islam_modernizmi_elestirisi.md           # Tarihselcilik eleştirisi (Mustafa Sabri & Maryam Jameelah)
+│   ├── 14_dijital_gozetim_ve_metaverse_fikihi.md               # VR avatarlar, hipergerçeklik ve siber halvet
+│   └── 15_cocuk_yetistirme_ve_kusaklararasi_inanc_erozyonu.md  # Bowlby bağlanma teorisi, Gazali pedagojisi ve deizm
+├── articles/                                                   # Yayınlanmış Manifestolar (6 Manifesto)
 │   ├── makale_laik_devlet_ve_fikihci_ittifaki.md               # Jakoben laiklik ve fıkıhçı mutabakatı
 │   ├── makale_sekli_ortunmeden_butuncul_tesetture.md           # Libas, basar, savt ve mekan tesettürü
 │   ├── makale_modern_deyyusluk_ve_gayretin_kaybi.md            # Plazaların gölgesinde iğdiş edilen erkeklik
-│   └── makale_teknoloji_ve_ilmi_fetislestiren_zihin.md         # Çağın altın buzağısı: Ar-Ge ve teknoloji putu
+│   ├── makale_teknoloji_ve_ilmi_fetislestiren_zihin.md         # Çağın altın buzağısı: Ar-Ge ve teknoloji putu
+│   ├── makale_cahiliyeden_plazaya_teberruc_tarihi.md           # Lisânü'l-Arab, Mevdûdî ve Seyyid Kutub tahlili
+│   └── makale_kurtarilmis_bolgeler_degil_mustakil_kaleler.md   # Sezai Karakoç ve Necip Fazıl diriliş manifestosu
 ├── datasets/                                                   # Yapay Zeka & RAG İçin JSON Veri Setleri
-│   ├── nass_kaynaklari_ve_hadisler.json                        # 24 adet nass, şerh ve modern izdüşüm
-│   ├── mecelle_kaideleri_rag.json                              # 20 adet Mecelle kaidesi ve çalışma hayatı analizi
-│   └── modern_vaka_analizleri.json                             # 14 adet gerçekçi modern kurumsal vaka
+│   ├── nass_kaynaklari_ve_hadisler.json                        # 30 adet nass, şerh ve modern izdüşüm
+│   ├── mecelle_kaideleri_rag.json                              # 26 adet Mecelle kaidesi ve çalışma hayatı analizi
+│   └── modern_vaka_analizleri.json                             # 20 adet gerçekçi modern kurumsal vaka
 └── tools/                                                      # Python Araçları ve RAG Motoru
     ├── rag_engine.py                                           # RAG arama, vaka analizi ve prompt motoru
     └── validate_datasets.py                                    # Veri seti doğrulama ve şema denetleyici
@@ -99,22 +105,22 @@ Bu depodaki JSON veri setleri, çağdaş Büyük Dil Modellerinin (Claude, Gemin
 # 1. Veri setlerinin bütünlüğünü doğrula
 python tools/validate_datasets.py
 
-# 2. Bilgi tabanı istatistiklerini görüntüle
+# 2. Bilgi tabanı istatistiklerini görüntüle (30 Nass, 26 Mecelle, 20 Vaka)
 python tools/rag_engine.py stats
 
 # 3. Bilgi tabanında arama yap (Nass + Mecelle + Vaka)
-python tools/rag_engine.py search "Slack DM siber halvet"
+python tools/rag_engine.py search "Metaverse VR halvet"
 
 # 4. LLM'e beslenecek RAG sistem istemi üret
 python tools/rag_engine.py prompt "Tokalaşma ve LinkedIn teşhiri"
 
 # 5. Belirli bir modern vakayı analiz et
-python tools/rag_engine.py case VAKA-009
+python tools/rag_engine.py case VAKA-015
 ```
 
 ---
 
-## 🔬 5. İncelenen Modern Vakalar Matrisi (14 Vaka)
+## 🔬 5. İncelenen Modern Vakalar Matrisi (20 Vaka)
 
 | Vaka Kodu | Vaka Başlığı | Temel Fıkhî İhlal | Meşru Alternatif |
 | :--- | :--- | :--- | :--- |
@@ -132,6 +138,12 @@ python tools/rag_engine.py case VAKA-009
 | **VAKA-012** | Şirket Dışı Hafta Sonu 'Team-Building' Kampı | Teşebbüh, Hayânın imhası | Gayrimeşru karma sosyal oyun ve kampları kesin ret. |
 | **VAKA-013** | Doktora Tez Danışmanlığı Kapalı Oda Seansları | Halvet, Sedd-i Zerâi | Kapıyı daima açık tutma, ortak salonları kullanma. |
 | **VAKA-014** | İki Maaş Uğruna Gece Mesaisine Rıza Gösteren Koca | Deyyûsluk hadisi, Nisâ 34 | Lüksü terk edip harcamayı kısma, nafakayı erkeğin üstlenmesi. |
+| **VAKA-015** | Metaverse / VR Ofisinde Avatarlarla Halvet | Hükmî Halvet, İsrâ 36 | Açık sanal kanallarda bulunma, birebir sanal odayı ret. |
+| **VAKA-016** | Erkek Meslektaşla Her Gün 1 Saatlik 'Carpooling' | Özel araçta halvet, Selâm 20 | Toplu taşıma veya hanımlara özel servis kullanma. |
+| **VAKA-017** | 'İslami İçerik Üreticisi' Kadının Erkeklerle DM Sohbeti | Ahzâb 32, Siber Halvet | Erkekleri erkek hocalara yönlendirme, DM kapatma. |
+| **VAKA-018** | Üniversite Kafesinde 'Kitap Tahlili' Karma Flörtü | Hicâb ihlali, Mecelle 30 | Bağımsız kız/erkek ilim halkaları kurma. |
+| **VAKA-019** | Mimarlık Ofisinde Gece Yarısı Render Sabahlaması | Halvet, Taberânî hadisi | İşi mesai saatinde bitirme, eve çekilme. |
+| **VAKA-020** | Karma Salonda Başörtülü Kadın ve Erkek Antrenör | Taberânî (Dokunma yasağı) | Müstakil kadın salonlarını veya evde sporu seçme. |
 
 ---
 

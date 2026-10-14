@@ -8,6 +8,14 @@
     "keywords": ["niyet", "maksat", "ameller", "meşruiyet", "hüküm"]
   },
   {
+    "madde_no": 3,
+    "osmanlica": "Ukûdde i'tibâr makâsıd ve me'ânîyedir elfâz ve mebânîye değildir.",
+    "arapca_kaide": "العبرة في العقود للمقاصد والمعاني لا للألفاظ والمباني",
+    "anlam_ve_serh": "Akitlerde ve muamelelerde esas olan, kullanılan kelimelerin ve lafızların zahiri değil; kastedilen hakiki mânâ ve gayedir.",
+    "ihtilat_ve_calisma_izdusumu": "Plazada yapılan bir eyleme '1-on-1 Feedback', 'Brainstorming' veya 'Networking' gibi modern isimler verilmesi, onun fıkhen 'Halvet' ve 'İhtilat' olduğu gerçeğini değiştirmez. Hüküm lafza değil, eylemin mahiyetine göredir.",
+    "keywords": ["itibar makasida", "lafizlar", "manalar", "jargon aldatmacasi", "hakikat"]
+  },
+  {
     "madde_no": 4,
     "osmanlica": "Şek ile yakîn zâil olmaz.",
     "arapca_kaide": "اليقين لا يزول بالشك (el-Yakînu lâ yezûlu bi'ş-şekk)",
@@ -32,6 +40,22 @@
     "keywords": ["sıfat-ı arıza", "fıtrat", "şehvet meyli", "ispat"]
   },
   {
+    "madde_no": 11,
+    "osmanlica": "Bir şeyin ber-vech-i meşrû' vukû'una hükm olunur.",
+    "arapca_kaide": "الأصل حمل الأمر على الوجه المشروع",
+    "anlam_ve_serh": "Bir muamelenin veya amelin şer'an muteber olması, onun meşru dairede ve şeriatın koyduğu usullere uygun gerçekleşmesine bağlıdır.",
+    "ihtilat_ve_calisma_izdusumu": "Bir kadının çalışması ancak ve ancak 'ber-vech-i meşru' (tesettüre riayet, ihtilatsızlık, halvetten uzak durma) şartıyla caizdir. Gayrimeşru şartlarda gerçekleşen çalışma batıldır.",
+    "keywords": ["ber-vech-i meşru", "meşruiyet şartı", "çalışma adabı", "hüküm"]
+  },
+  {
+    "madde_no": 12,
+    "osmanlica": "Kelâmda aslolan hakîkattir.",
+    "arapca_kaide": "الأصل في الكلام الحقيقة",
+    "anlam_ve_serh": "Bir söz söylendiğinde, mecaza dair açık bir karine olmadıkça onun hakiki lügat mânâsı esas alınır.",
+    "ihtilat_ve_calisma_izdusumu": "Kur'an'daki 'zinaya yaklaşmayın', 'gözlerini sakınsınlar' ve 'evlerinizde vakarla oturun' emirleri mecaz veya sembolik tavsiyeler değil; lafzı üzere bağlayıcı hakiki şer'î emirlerdir.",
+    "keywords": ["kelamda hakikat", "nassın zahiri", "bağlayıcılık", "mecazın reddi"]
+  },
+  {
     "madde_no": 17,
     "osmanlica": "Meşakkat teysîri celb eder.",
     "arapca_kaide": "المشقة تجلب التيسير (el-Meşakkatü teclibü't-teysîr)",
@@ -50,7 +74,7 @@
   {
     "madde_no": 20,
     "osmanlica": "Zarar izâle olunur.",
-    "arapca_kaide": "الضرر يزال (ed-D唯aru yüzâl)",
+    "arapca_kaide": "الضرر يزال (ed-Dararu yüzâl)",
     "anlam_ve_serh": "Vuku bulmuş olan zarar derhal ortadan kaldırılmalıdır. Kötülüğün devamına müsaade edilemez.",
     "ihtilat_ve_calisma_izdusumu": "Bir iş ortamında laubalilik, siber halvet veya fıkhî sınır aşımı başladığı anda; 'artık girdik bir kere' denilerek devam edilemez; o zarar istifa veya kanalın kapatılmasıyla derhal izale edilir.",
     "keywords": ["zararın izalesi", "derhal terk", "ortadan kaldırma", "müdahale"]
@@ -96,6 +120,14 @@
     "keywords": ["iki fesat", "ehven-i şer", "büyük fesat", "küçük fesat", "terazileme"]
   },
   {
+    "madde_no": 28,
+    "osmanlica": "Ehaf olan zarar ihtiyâr olunur.",
+    "arapca_kaide": "يختار أهون الشرين",
+    "anlam_ve_serh": "İki şer ve zarar kaçınılmaz olduğunda, mükellef her zaman en hafif olanını seçmekle yükümlüdür.",
+    "ihtilat_ve_calisma_izdusumu": "Dünyevi fakirlik mi ahiret helaki mi ikilemi karşısında; dünyevi fakirlik 'ehven-i şerreyn'dir. İffet feda edilemez.",
+    "keywords": ["ehven-i şerreyn", "hafif şer", "tercih", "takva"]
+  },
+  {
     "madde_no": 30,
     "osmanlica": "Def'-i mefâsid celb-i menâfi'den evlâdır.",
     "arapca_kaide": "درء المفاسد أولى من جلب المصالح (Dar'u'l-mefâsid evlâ min celbi'l-masâlih)",
@@ -118,6 +150,14 @@
     "anlam_ve_serh": "Bütün toplumu ilgilendiren yaygın ihtiyaçlar veya özel mesleki zaruretler, bazı kolaylaştırıcı akit ve kurallarda zaruret gibi kabul edilebilir. Ancak bu kaide asla kat'î haramları ve nassla sabit ahlaki yasakları ilga edemez.",
     "ihtilat_ve_calisma_izdusumu": "Piyasanın genel yapısının karma olması, Müslüman fert için ihtilatı mubah kılan bir 'genel hacet' sayılmaz. Şâtıbî'nin belirttiği üzere, dinin muhafazası (hıfzu'd-din) tüm iktisadi hacetlerin üstündedir.",
     "keywords": ["hacet", "zaruret menzilesi", "hıfzu'd-din", "yanlış yorumlar"]
+  },
+  {
+    "madde_no": 34,
+    "osmanlica": "Iztırâr gayrın hakkını ibtâl etmez.",
+    "arapca_kaide": "الاضطرار لا يبطل حق الغير",
+    "anlam_ve_serh": "Çaresizlik ve zaruret hali, başkasının meşru hakkını ve dokunulmazlığını yok etmez; tazmin yükümlülüğünü kaldırmaz.",
+    "ihtilat_ve_calisma_izdusumu": "Bir kimsenin 'Ben mecbur kaldım' diyerek kocasının haklarını, ailesinin iffetini veya şeriatın hududunu çiğnemesi mazur görülemez. Allah'ın hakkı (Hukukullah) ıztırar ile iptal edilemez.",
+    "keywords": ["iztirar", "gayrin hakki", "hukukullah", "mazeret sayilmama"]
   },
   {
     "madde_no": 36,
@@ -150,6 +190,14 @@
     "anlam_ve_serh": "Bir yasağı geçici olarak mubah kılan engel veya mazeret ortadan kalktığında; asıl yasaklık hükmü derhal geri döner.",
     "ihtilat_ve_calisma_izdusumu": "Resmi bir dairede veya zorunlu bir tıbbi müdahalede biten zaruret anından sonra; karşı cinsle iletişimi sürdürmek haramlığa rücû eder.",
     "keywords": ["mani zail oldu", "asıl hükme dönüş", "haramlığın avdeti"]
+  },
+  {
+    "madde_no": 53,
+    "osmanlica": "Tâbi' olan şey müstakillen hüküm alamaz.",
+    "arapca_kaide": "التابع لا يفرد بالحكم",
+    "anlam_ve_serh": "Bir asıl hükme tabi olan fer'î unsur, asıldan bağımsız olarak tek başına meşruiyet veya hüküm kazanamaz.",
+    "ihtilat_ve_calisma_izdusumu": "Müslüman kadının meşru çalışması, fıkhî şartlara tabidir. Asıl olan iffet ve takva yoksa, tali olan çalışma faaliyeti tek başına meşru kılınamaz.",
+    "keywords": ["tabi olan", "asla baglilik", "fer'i hüküm"]
   },
   {
     "madde_no": 99,

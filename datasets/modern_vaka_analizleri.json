@@ -196,5 +196,89 @@
     "sosyolojik_ve_kalbi_tahribat": "Erkekteki fıtrî koruyuculuk ve gayret şuurunun para hırsıyla yok edilmesi; deyyûsluk zilleti.",
     "fikhi_hukum": "Kocanın, eşinin namahrem erkeklerle sınırların kalktığı ortamlarda bulunmasına rıza göstermesi fıkhen deyyûsluktur ve büyük günahtır.",
     "mesru_ve_vakarlı_cozum": "Lüks tüketim terk edilmeli, harcamalar kısılmalı; kadın meşru olmayan mesailerden derhal çekilerek nafakayı erkek tek başına temin etmelidir."
+  },
+  {
+    "vaka_id": "VAKA-015",
+    "baslik": "Metaverse / VR Çalışma Ofisinde 3D Avatarlarla Halvet",
+    "senaryo": "Yazılım şirketinde çalışan başörtülü kadın tasarımcı, VR başlığı takarak Metaverse üzerinde tasarlanmış kapalı bir sanal toplantı odasında erkek yöneticisiyle 2 saat baş başa kalır. Mekânsal ses teknolojisiyle birbirlerinin nefes tonlarını duyarlar, sanal jest ve mimiklerle şakalaşırlar.",
+    "modernist_savunma": "'Fiziksel temas sıfır, gerçek odada bile değiliz, sadece simülasyon. Burası çizgi film gibi bir şey, günah mı olur?'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Tirmizî, Radâ 16 (Hükmî halvet ve şeytanın dahil oluşu)",
+      "el-İsrâ Sûresi, 36 (Kulak, göz ve kalbin mesuliyeti)",
+      "Mecelle Madde 3 (İtibâr makâsıd ve meânîyedir elfâza değil)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "İnsan beyninin sanal simülasyonu gerçek kabul etmesi sebebiyle kalpte ve nefiste fiziksel halvetin aynısının doğması; takvanın dijitalleşerek ölümü.",
+    "fikhi_hukum": "Başkalarının muttali olmadığı sanal odalarda yabancı kadın ve erkeğin avatarlarla baş başa kalması fıkhen hükmî halvettir ve haramdır.",
+    "mesru_ve_vakarlı_cozum": "Sanal toplantılar mutlaka tüm ekibin veya denetçilerin bulunduğu açık sanal alanlarda yapılmalı; birebir seanslar yasaklanmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-016",
+    "baslik": "Şirket Servisinde Erkek Meslektaşla Her Gün 1 Saatlik 'Carpooling'",
+    "senaryo": "Aynı semtte oturan başörtülü mühendis kadın ile erkek meslektaşı; masrafları bölüşmek bahanesiyle her sabah ve akşam bir saat aynı otomobilde baş başa yolculuk ederler. Trafik sıkışıklığında müzik dinlenir, ailevi meseleler konuşulur.",
+    "modernist_savunma": "'Trafik çok yoğun, toplu taşıma eziyet. Yakıtı bölüşüyoruz, ekonomik bir tasarruftur.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Özel araçta halvet yasağı)",
+      "Buhârî, Selâm 20 (Kayınbirader/tanıdık hadisi)",
+      "Mecelle Madde 22 (Zaruret miktarınca kalmama ihlali)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Dar bir araç kabininde her gün iki saat baş başa kalmanın kaçınılmaz olarak duygusal yakınlaşma ve sadakatsizlik tohumu ekmesi.",
+    "fikhi_hukum": "Yabancı bir erkekle kapalı hususi bir araçta baş başa düzenli seyahat etmek fıkhen kat'î halvettir ve haramdır.",
+    "mesru_ve_vakarlı_cozum": "Toplu taşımaya veya hanımlara mahsus servis araçlarına yönelinmeli; yakıt tasarrufu uğruna fıkhî mahremiyet feda edilmemelidir."
+  },
+  {
+    "vaka_id": "VAKA-017",
+    "baslik": "'İslami İçerik Üreticisi' Kadının Erkek Takipçilerle DM Dertleşmesi",
+    "senaryo": "Sosyal medyada dini, ahlaki ve motivasyonel paylaşımlar yapan popüler başörtülü 'influencer', erkek takipçilerinden gelen 'Ablacım/Hocam dini konularda çok bunalımdayım, yardım edin' mesajlarına gece saatlerinde DM'den uzun uzun tavsiyeler verir, özel dertlerini dinler.",
+    "modernist_savunma": "'Ben dini tebliğ yapıyorum, insanlara manevi destek oluyorum. İrşad faaliyeti sevaptır.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "el-Ahzâb Sûresi, 32 (Sözü yumuşatma yasağı)",
+      "Tirmizî, Radâ 16 (Siber Halvet)",
+      "Sedd-i Zerâi kaidesi"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Dini tebliğ kisvesi altında nefsin ve şeytanın duygusal bağ kurması; tebliğin günah tuzağına dönüşmesi.",
+    "fikhi_hukum": "Kadının yabancı erkeklerle özel şifreli mesaj kutularında 'manevi dertleşme' adı altında yazışması haramdır; sedd-i zerâi gereği men edilmiştir.",
+    "mesru_ve_vakarlı_cozum": "Erkek takipçiler erkek hocalara ve alimlere yönlendirilmeli; kadın yalnızca hanımlara mahsus kanallarda irşad yapmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-018",
+    "baslik": "Üniversite Kafesinde 'Kitap Tahlili' Adı Altında Karma Flört",
+    "senaryo": "İlahiyat veya sosyal bilimler fakültesinden 2 kız, 2 erkek öğrenci; İmam Gazâlî veya Aliya İzzetbegoviç'in kitabını tahlil etmek bahanesiyle üniversite kafeteryasında buluşup latte eşliğinde 3 saat oturur. Ciddi başlayan tahlil, birbirine takılmalara, kahkahalara ve numara alışverişine evrilir.",
+    "modernist_savunma": "'Biz İslami düşünceyi tartışıyoruz, entelektüel gençlik yetiştiriyoruz. Dava şuuru bunu gerektirir.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "el-Ahzâb Sûresi, 53 (Hicâb ve kalp temizliği emri)",
+      "en-Nûr Sûresi, 30-31 (Gadd-ı basar ihlali)",
+      "Mecelle Madde 30 (Fayda iddiası, fesat zararını savmaktan önce gelemez)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Kutsal dava ve ilim kavramlarının karşı cinsle flört etmek için bir paravan olarak kullanılması; kalbin feyzinin kuruması.",
+    "fikhi_hukum": "İlim veya dava bahanesiyle sınırların kalktığı, kahkahaların atıldığı karma kafe toplantıları caiz değildir.",
+    "mesru_ve_vakarlı_cozum": "Kitap tahlilleri kızlar ve erkekler arasında bağımsız halkalar halinde yapılmalı; ilim hayâ ile taçlandırılmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-019",
+    "baslik": "Mimarlık Ofisinde Gece Yarısı Erkek Şefle 'Proje Teslimi' Sabahlaması",
+    "senaryo": "Belediyenin mimari proje ihalesi teslimi için son 24 saattir. Başörtülü genç kadın mimar, erkek ofis şefiyle birlikte gece 02:00'de kilitli ofiste 3D render alır. Şef 'Yoruldun, kahve yapayım' diyerek omzuna dokunur, kadın 'iş stresi' sebebiyle tepki vermez.",
+    "modernist_savunma": "'Yarın sabah teslim var, milyonluk ihale söz konusu. Sabahlamazsak şirket batar.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Halvet)",
+      "Taberânî (Demir şiş dokunma hadisi)",
+      "Mecelle Madde 26 (Maddi ihale kaybı, manevi helakten evladır)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Mesleki zorunluluk adı altında kadının beden mahremiyetinin ve dokunulmazlığının çiğnenmesi.",
+    "fikhi_hukum": "Gece kapalı bir ofiste yabancı erkekle yalnız sabahlamak kesinlikle haramdır; dünyevi hiçbir ihale bu haramı mübah kılamaz.",
+    "mesru_ve_vakarlı_cozum": "İşler mesai saatinde planlanmalı; yetişmiyorsa eve iş götürülmeli veya üçüncü bir şahıs bulunmadıkça ofiste kalınmamalıdır."
+  },
+  {
+    "vaka_id": "VAKA-020",
+    "baslik": "Karma Spor Salonunda 'Başörtülü Kadın' ve Erkek Personal Trainer",
+    "senaryo": "Kilosunu kontrol etmek isteyen başörtülü kadın, karma bir lüks spor salonuna yazılır. Eşofmanı bol olsa da salondaki erkek eğitmen (personal trainer), hareketleri doğru yaptırmak bahanesiyle kadının sırtına, beline ve kollarına dokunarak postür düzeltir.",
+    "modernist_savunma": "'Spor sağlıktır, hoca da bir nevi fizyoterapisttir. Cinsel niyetle dokunmuyor, anatomik gösteriyor.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Taberânî (Dokunma yasağı hadisi)",
+      "en-Nûr Sûresi, 30-31 (Karma salonda çıplaklığa nazar)",
+      "Mecelle Madde 21-22 (Zayıflamak hayat-memat zarureti değildir)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Sağlık ve fitlik putu uğruna bedenin yabancı bir erkeğin ellerine teslim edilmesi; hayâ duygusunun tamamen tasfiyesi.",
+    "fikhi_hukum": "Kadının erkek antrenör eşliğinde spor yapması ve erkeklerin bulunduğu karma salonda ter dökmesi fıkhen kat'î surette haramdır.",
+    "mesru_ve_vakarlı_cozum": "Yalnızca kadınlara hizmet veren müstakil spor salonları tercih edilmeli veya evde spor aletleriyle çalışılmalıdır."
   }
 ]
