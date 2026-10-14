@@ -112,5 +112,89 @@
     "sosyolojik_ve_kalbi_tahribat": "Güç ve hiyerarşi dengesizliği altında genç kadının manevi olarak baskı altına girmesi ve zihinsel sınırlarının esnetilmesi.",
     "fikhi_hukum": "Sesin duyulmadığı, baş başa kalınan cam mekanlar fıkhen 'hükmî halvet' şüphesi taşır; kapının açık tutulması veya üçüncü bir kişinin bulunması şarttır.",
     "mesru_ve_vakarlı_cozum": "Kapı mutlaka aralık bırakılmalı veya toplantıya bir kadın İK temsilcisinin refakat etmesi talep edilmelidir."
+  },
+  {
+    "vaka_id": "VAKA-009",
+    "baslik": "LinkedIn'de Profesyonel Teşhir: Makyajlı Pozlar ve Etkileşim Avcılığı",
+    "senaryo": "Başörtülü kadın mühendis veya yönetici, LinkedIn profilinde yüz hatlarını öne çıkaran profesyonel stüdyo fotoğrafları ve makyajlı selfieler paylaşır. 'Yeni terfimi kutluyorum' başlığı altında yüzlerce yabancı erkeğin iltifat dolu tebrik yorumlarına kalp ve teşekkür emojileriyle karşılık verir.",
+    "modernist_savunma": "'Burası Tinder değil, LinkedIn! Burası profesyonel bir iş ağıdır. Kişisel marka yönetimi (personal branding) için fotoğraf şart.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "en-Nûr Sûresi, 31 (Ziynetleri teşhir etmeme emri)",
+      "el-Ahzâb Sûresi, 33 (Cahiliye teberrücü yasağı)",
+      "Müslim, Libâs 125 (Kâsiyâtün âriyât tehdidi)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Başörtüsünün dijital beğeni ve onaylanma bağımlılığına alet edilmesi; kadının fıtrî hayâsının sanal alkışlarla tasfiyesi.",
+    "fikhi_hukum": "Kadının süslenerek yabancı erkeklerin göreceği açık dijital platformlarda fotoğraf paylaşması ve yorumlaşması haramdır; teberrüc hükmündedir.",
+    "mesru_ve_vakarlı_cozum": "Profilde fotoğraf yerine logo veya sade, süssüz resmi bir avatar kullanılmalı; yabancı erkeklerin iltifat içerikli yorumları silinmeli veya engellenmelidir."
+  },
+  {
+    "vaka_id": "VAKA-010",
+    "baslik": "Tıp Fakültesi ve Hastane Nöbetinde Karma Dinlenme Odası",
+    "senaryo": "Şehir hastanesinde acil nöbetinde görevli başörtülü kadın asistan hekim ile erkek asistan hekim; gecenin 03:00'ünde hastaların azaldığı saatte aynı doktor dinlenme odasında koltuklarda uyur, çay içer ve nöbet yorgunluğuyla kişisel konularda dertleşir.",
+    "modernist_savunma": "'Biz doktoruz, insan hayatı kurtarıyoruz. Burada cinsiyet mi kalır? Tıp bir zarurettir.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Halvet yasağı)",
+      "Mecelle Madde 22 (Zaruretler kendi miktarınca takdir olunur)",
+      "Sedd-i Zerâi kaidesi"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Kutsal kabul edilen hekimlik mesleğinin, fıkhî hudutları delmek için istismar edilmesi; uykulu ve yorgun halde mahremiyetin kalkması.",
+    "fikhi_hukum": "Tedavi esnasındaki acil müdahaleler meşru iken; dinlenme ve nöbet odalarının karma olması ve baş başa uyunması kat'î surette haramdır.",
+    "mesru_ve_vakarlı_cozum": "Başhekimlikten kadın ve erkek dinlenme odalarının kesin olarak ayrılması talep edilmeli; aksi halde nöbet aralarında yalnız kalınabilecek müstakil bir alana çekilinmelidir."
+  },
+  {
+    "vaka_id": "VAKA-011",
+    "baslik": "Müşteri Karşılamada 'İş Nezaketi' Adı Altında Tokalaşma Baskısı",
+    "senaryo": "Çokuluslu bir denetim firmasında çalışan başörtülü uzman, şirkete gelen yabancı erkek müşterinin uzattığı eli geri çevirmemek, 'şirketi kaba göstermemek' adına sıkar ve tebessüm eder.",
+    "modernist_savunma": "'El sıkışmak cinsellik içermez, modern dünyada standart bir selamlaşma ve saygı göstergesidir.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Taberânî (Başa demir şiş saplanması hadisi)",
+      "Buhârî, Ahkâm 49 (Hz. Âişe: Resulullah hiçbir kadının eline dokunmadı)",
+      "Dört mezhebin musafaha yasağındaki icmaı"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Batılı iş görgü kuralları karşısında aşağılık kompleksine kapılarak Allah'ın kesin yasağını ayaklar altına alma zilleti.",
+    "fikhi_hukum": "Yabancı bir erkekle tokalaşmak dört mezhebin ittifakıyla haramdır; şirketin veya müşterinin hatırı için bu haram çiğnenemez.",
+    "mesru_ve_vakarlı_cozum": "Müşteri el uzattığında sağ el nezaketle kalbin üzerine götürülmeli ve tebessümle 'İnancım gereği tokalaşmıyorum, hoş geldiniz' denilerek vakarlı duruş korunmalıdır."
+  },
+  {
+    "vaka_id": "VAKA-012",
+    "baslik": "Şirket Dışı Hafta Sonu 'Team-Building' Kampı ve Sosyal Oyunlar",
+    "senaryo": "Şirket çalışanları hafta sonu kaynaşma amacıyla bir tatil köyünde toplanır. Programda karma voleybol maçı, ip atlama, karaoke gecesi ve havuza girme etkinlikleri vardır. Başörtülü çalışan 'ekip ruhundan kopmamak' adına tesettür mayosuyla havuza girer ve erkek meslektaşlarıyla oyunlarda yarışır.",
+    "modernist_savunma": "'Ekip sinerjisi olmadan çeyrek hedeflerine ulaşamayız. Herkes ailesi gibi, art niyet yok.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Ebû Dâvûd, Libâs 4 (Fasıkların eğlencesine teşebbüh)",
+      "en-Nûr Sûresi, 30-31 (Gadd-ı basar ve hayânın imhası)",
+      "Mecelle Madde 30 (Eğlence menfaati, iffet mefsedetinin önüne geçemez)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Aradaki tüm hürmet, ciddiyet ve mesafenin kökünden dinamitlenmesi; seküler eğlence kültürünün takvayı yok etmesi.",
+    "fikhi_hukum": "Kadın ve erkeğin sportif ve laubali oyunlarla birbirine karıştığı bu tür kamplara katılmak fıkhen kesin olarak haramdır.",
+    "mesru_ve_vakarlı_cozum": "Bu tür gayrimeşru etkinlikler kesin bir dille reddedilmeli; şirketin iş dışı zorlamalarına boyun eğilmemelidir."
+  },
+  {
+    "vaka_id": "VAKA-013",
+    "baslik": "Doktora Tez Danışmanlığı İçin Kapalı Odada Özel Seanslar",
+    "senaryo": "Üniversitede kadın yüksek lisans/doktora öğrencisi, erkek profesörün odasında tez düzeltmeleri için haftada iki gün ikişer saat kapalı kapı arkasında çalışır. Hoca zamanla özel hayatından bahsetmeye, iltifatlar etmeye başlar.",
+    "modernist_savunma": "'Akademik çalışma yapıyoruz. Kapı açık olursa dışarıdan gürültü gelir, konsantrasyon bozulur.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Buhârî, Nikâh 111 (Halvet yasağı)",
+      "Tirmizî, Radâ 16 (Şeytanın üçüncü olması)",
+      "Sedd-i Zerâi ilkesi"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Akademi hiyerarşisinin getirdiği nüfuzun duygusal ve cinsi istismara zemin hazırlaması.",
+    "fikhi_hukum": "Kapısı kilitli veya kapalı odada yabancı hoca ile yalnız kalmak fıkhen kesin haramdır; halvet tahakkuk etmiştir.",
+    "mesru_ve_vakarlı_cozum": "Görüşmelerde kapı daima açık tutulmalı, mümkünse kütüphane veya ortak çalışma salonları tercih edilmeli; ya da bir kadın danışman seçilmelidir."
+  },
+  {
+    "vaka_id": "VAKA-014",
+    "baslik": "Kocanın İki Maaş Konforu Uğruna Eşinin Gece Mesailerine Göz Yumması",
+    "senaryo": "Muhafazakâr koca, evin lüks giderlerini karşılayabilmek için yazılım şirketinde çalışan eşinin gece 22:00'lere kadar erkek mühendislerle ofiste veya toplantılarda kalmasına ses çıkarmaz; 'Hayat müşterektir, eşim çok başarılı' diyerek kendini rahatlatır.",
+    "modernist_savunma": "'Tek maaşla geçinmek imkansız, enflasyon var. Eşimin başarısını kıskanmak bağnazlıktır.'",
+    "ihlal_edilen_nass_ve_kaideler": [
+      "Ahmed b. Hanbel (Deyyûsluk hadisi)",
+      "en-Nisâ Sûresi, 34 (Erkeklerin kadınlar üzerine kavvâm oluşu)",
+      "Mecelle Madde 26 (Dünyevi konfor kaybı, manevi helakten evladır)"
+    ],
+    "sosyolojik_ve_kalbi_tahribat": "Erkekteki fıtrî koruyuculuk ve gayret şuurunun para hırsıyla yok edilmesi; deyyûsluk zilleti.",
+    "fikhi_hukum": "Kocanın, eşinin namahrem erkeklerle sınırların kalktığı ortamlarda bulunmasına rıza göstermesi fıkhen deyyûsluktur ve büyük günahtır.",
+    "mesru_ve_vakarlı_cozum": "Lüks tüketim terk edilmeli, harcamalar kısılmalı; kadın meşru olmayan mesailerden derhal çekilerek nafakayı erkek tek başına temin etmelidir."
   }
 ]

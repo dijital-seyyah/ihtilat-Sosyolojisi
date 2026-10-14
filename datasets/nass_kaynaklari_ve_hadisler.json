@@ -32,6 +32,16 @@
   {
     "id": "NASS-004",
     "tur": "ayet",
+    "kaynak": "el-Ahzâb Sûresi, 33",
+    "arapca": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ",
+    "turkce": "Evlerinizde vakarla oturun; önceki câhiliye kadınlarının açılıp saçılması gibi açılıp saçılmayın. Namazı kılın, zekâtı verin, Allah'a ve Resûlüne itaat edin...",
+    "baglam_ve_serh": "İbn Kesîr tefsirinde: Kadının asıl ve fıtrî yerinin evi olduğunu, meşru bir zaruret olmaksızın dışarı çıkmamasının emredildiğini belirtir. 'Teberrüc' ise kadının ziynetini, güzelliğini ve cazibesini namahrem erkeklere teşhir etmesidir.",
+    "temalar": ["evde vakar", "teberrüc yasağı", "cahiliye adeti", "asli vazife", "mahremiyet"],
+    "modern_uygulama": "Kadının kapitalist kariyer hırslarıyla evi terk edip plazaların açık ofislerinde vitrin nesnesi haline getirilmesine fıkhî itiraz; yuvanın kudsiyetini muhafaza."
+  },
+  {
+    "id": "NASS-005",
+    "tur": "ayet",
     "kaynak": "el-Ahzâb Sûresi, 53",
     "arapca": "وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِن وَرَاءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ",
     "turkce": "…Onlardan (Peygamberin hanımlarından) bir şey istediğiniz zaman perde (hicâb) arkasından isteyin. Bu, hem sizin kalpleriniz hem de onların kalpleri için daha temizdir...",
@@ -40,7 +50,17 @@
     "modern_uygulama": "Açık ofislerde paravanların, bağımsız çalışma alanlarının oluşturulması; fiziksel ve dijital bariyerlerin 'kalp temizliği' için bir zorunluluk olduğunun idraki."
   },
   {
-    "id": "NASS-005",
+    "id": "NASS-006",
+    "tur": "ayet",
+    "kaynak": "el-Ahzâb Sûresi, 59",
+    "arapca": "يَا أَيُّهَا النَّبِيُّ قُل لِّأَزْوَاجِكَ وَبَنَاتِكَ وَنِسَاءِ الْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ",
+    "turkce": "Ey Peygamber! Eşlerine, kızlarına ve müminlerin kadınlarına söyle: Dış elbiselerini (cilbâb) üzerlerine sıkıca örtsünler. Bu, onların (iffetli tanınmaları) ve eziyet görmemeleri için en uygun olanıdır.",
+    "baglam_ve_serh": "Cessâs ve Kurtubî, 'cilbâb'ın baştan aşağı bütün bedeni ve iç giysileri örten geniş dış kıyafet olduğunu açıklar. Tesettürün hikmeti; kadının iffetli bir hanımefendi olarak bilinip fâsıkların tacizinden korunmasıdır.",
+    "temalar": ["cilbab", "dış örtü", "iffet nişanesi", "koruma", "tanınma"],
+    "modern_uygulama": "Vücut hatlarını belli eden dar pantolon, kısa tunik veya parlak renkli muhafazakar moda giysilerini terk edip; geniş, dökümlü ve dikkat çekmeyen şer'î cilbaba dönmek."
+  },
+  {
+    "id": "NASS-007",
     "tur": "ayet",
     "kaynak": "el-İsrâ Sûresi, 32",
     "arapca": "وَلَا تَقْرَبُوا الزِّنَىٰ ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
@@ -50,7 +70,17 @@
     "modern_uygulama": "Gece mesailerinde tek başına kalmak, şirket partilerine katılmak, namahremle yalnız yolculuk yapmak gibi zinaya davetiye çıkaran ortamları tamamen reddetmek."
   },
   {
-    "id": "NASS-006",
+    "id": "NASS-008",
+    "tur": "ayet",
+    "kaynak": "el-Kasas Sûresi, 25",
+    "arapca": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا",
+    "turkce": "Derken o iki kadından biri, tam bir haya ve utangaçlık içinde yürüyerek ona (Mûsâ'ya) geldi ve dedi ki: 'Babam, hayvanlarımızı sulamanın ücretini vermek üzere seni çağırıyor.'",
+    "baglam_ve_serh": "Hz. Ömer (r.a.) bu ayetin tefsirinde şöyle demiştir: 'O kadın yüzünü elbisesinin koluyla örtmüş olarak, edep ve haya içinde yürüyordu; kırıtıp kırıtan, cilve yapan kadınlar gibi değildi.' Kur'an, kadının yürüyüşündeki hayâyı övgüyle zikretmiştir.",
+    "temalar": ["haya", "vakarlı yürüyüş", "kelam adabı", "zaruret mikdarı hitap"],
+    "modern_uygulama": "İş görüşmelerinde ve çalışma mekanlarında cilveli adımlar, yüksek sesli topuk tıkırtıları ve laubali beden dilinden kaçınarak Hz. Şuayb'ın kızının hayâsını örnek almak."
+  },
+  {
+    "id": "NASS-009",
     "tur": "hadis",
     "kaynak": "Buhârî, Nikâh 111; Müslim, Hacc 424",
     "arapca": "لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا وَمَعَهَا ذُو مَحْرَمٍ",
@@ -60,7 +90,7 @@
     "modern_uygulama": "Toplantı odasında kapıyı kapatıp iki kişi kalmak, asansörde yalnız kalmamaya özen göstermek, birebir DM veya şifreli görüntülü aramalarda üçüncü bir denetleyici bulundurmak."
   },
   {
-    "id": "NASS-007",
+    "id": "NASS-010",
     "tur": "hadis",
     "kaynak": "Tirmizî, Radâ 16, Fiten 7",
     "arapca": "أَلَا لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا كَانَ ثَالِثَهُمَا الشَّيْطَانُ",
@@ -70,7 +100,7 @@
     "modern_uygulama": "Profesyonellik adı altında yalnız yapılan proje toplantılarını, danışmanlık seanslarını ve siber halvet ortamlarını hadisin uyarısıyla derhal sonlandırmak."
   },
   {
-    "id": "NASS-008",
+    "id": "NASS-011",
     "tur": "hadis",
     "kaynak": "Müslim, Salât 132; Ebû Dâvûd, Salât 97",
     "arapca": "خَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا، وَشَرُّهَا آخِرُهَا، وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا، وَشَرُّهَا أَوَّلُهَا",
@@ -80,7 +110,7 @@
     "modern_uygulama": "Camide dahi yan yana durulmasına izin verilmeyen bir dinin amfilerde, ofis masalarında ve Ar-Ge laboratuvarlarında omuz omuza oturmaya cevaz vermeyeceğinin açık delili."
   },
   {
-    "id": "NASS-009",
+    "id": "NASS-012",
     "tur": "hadis",
     "kaynak": "Ebû Dâvûd, Salât 53",
     "arapca": "لَوْ تَرَكْنَا هَذَا الْبَابَ لِلنِّسَاءِ",
@@ -90,7 +120,7 @@
     "modern_uygulama": "Kurumlarda, okullarda ve tesislerde kadın ve erkekler için ayrı giriş-çıkışların, dinlenme salonlarının ve yemek alanlarının tanzim edilmesinin sünnete uygunluğu."
   },
   {
-    "id": "NASS-010",
+    "id": "NASS-013",
     "tur": "hadis",
     "kaynak": "Ebû Dâvûd, Edeb 168",
     "arapca": "اسْتَأْخِرْنَ فَإِنَّهُ لَيْسَ لَكُنَّ أَنْ تَحْقُقْنَ الطَّرِيقَ، عَلَيْكُنَّ بِحَافَّاتِ الطَّرِيقِ",
@@ -100,7 +130,27 @@
     "modern_uygulama": "Plaza koridorlarında, asansör önlerinde ve kampüs yollarında fıtrî mesafeyi gözetmek; karşı cinsin yolunu kesmemek ve vakarlı yürüyüş sergilemek."
   },
   {
-    "id": "NASS-011",
+    "id": "NASS-014",
+    "tur": "hadis",
+    "kaynak": "Taberânî, el-Mu'cemü'l-Kebîr, XX/211; Heysemî, Mecmeu'z-Zevâid, IV/326",
+    "arapca": "لَأَنْ يُطْعَنَ فِي رَأْسِ أَحَدِكُمْ بِمِخْيَطٍ مِنْ حَدِيدٍ خَيْرٌ لَهُ مِنْ أَنْ يَمَسَّ امْرَأَةً لَا تَحِلُّ لَهُ",
+    "turkce": "Kişinin başına demir bir şişin/çivinin saplanması; kendisine helal olmayan yabancı bir kadına dokunmasından çok daha hayırlıdır!",
+    "baglam_ve_serh": "Ma'kıl b. Yesâr'dan rivayet edilen bu sahih hadis; dört mezhebin kadınla tokalaşmayı (musafaha) haram kılışının en sarih nassıdır. Dokunmak bakmaktan daha şiddetli bir temas olup icmâen men edilmiştir.",
+    "temalar": ["musafaha yasağı", "tokalaşma", "şiddetli tehdit", "fiziksel temas", "icma"],
+    "modern_uygulama": "İş mülakatlarında, müşteri görüşmelerinde veya bayramlaşmalarda 'kurumsal nezaket' bahanesiyle karşı cinsle tokalaşmayı kesinlikle reddetmek."
+  },
+  {
+    "id": "NASS-015",
+    "tur": "hadis",
+    "kaynak": "Buhârî, Ahkâm 49; Müslim, İmâre 88",
+    "arapca": "وَاللَّهِ مَا مَسَّتْ يَدُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدَ امْرَأَةٍ قَطُّ غَيْرَ أَنَّهُ يُبَايِعُهُنَّ بِالْكَلَامِ",
+    "turkce": "Müminlerin Annesi Hz. Âişe (r.anhâ) yemin ederek şöyle demiştir: 'Vallahi Resûlullah (s.a.v.)'in eli, biat alırken dahi hiçbir kadının eline asla değmedi! O, kadınlardan biatı sadece söz ile alırdı.'",
+    "baglam_ve_serh": "Devlet başkanlığı biatı gibi en mühim bir siyasi akitte bile Peygamberimiz yabancı kadınların eline dokunmamış, biatı kelam ile yapmıştır. Bu nebevî tatbikat iş hayatında tokalaşmaya cevaz arayanların hüccetini kökten çürütür.",
+    "temalar": ["nebevî sünnet", "biat", "kadın eli sıkmama", "Hz. Âişe rivayeti"],
+    "modern_uygulama": "Kurumsal anlaşmalarda veya tebriklerde el uzatmak yerine sağ eli göğse götürerek vakarlı bir selamla mukabele etmek."
+  },
+  {
+    "id": "NASS-016",
     "tur": "hadis",
     "kaynak": "Buhârî, Nikâh 111; Müslim, Selâm 20",
     "arapca": "إِيَّاكُمْ وَالدُّخُولَ عَلَى النِّسَاءِ. فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَفَرَأَيْتَ الْحَمْوَ؟ قَالَ: الْحَمْوُ الْمَوْتُ",
@@ -110,7 +160,57 @@
     "modern_uygulama": "'Biz aynı şirketteyiz', 'Biz meslektaşız', 'Biz proje arkadaşıyız' denilerek gevşetilen sınırların fıkhî vahametini kavramak; tanıdık olmanın mesafeyi kaldırmadığını idrak etmek."
   },
   {
-    "id": "NASS-012",
+    "id": "NASS-017",
+    "tur": "hadis",
+    "kaynak": "Buhârî, Ezân 163; Müslim, Salât 144",
+    "arapca": "لَوْ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَأَى مَا أَحْدَثَ النِّسَاءُ لَمَنَعَهُنَّ الْمَسْجِدَ كَمَا مُنِعَتْ نِسَاءُ بَنِي إِسْرَائِيلَ",
+    "turkce": "Hz. Âişe (r.anhâ) dedi ki: 'Eğer Resûlullah (s.a.v.) kadınların sonradan ihdas ettikleri bu halleri görseydi; İsrailoğullarının kadınlarının menedildiği gibi onları da mescidlerden kesinlikle menederdi!'",
+    "baglam_ve_serh": "Asr-ı Saadet'in hemen ertesinde ibadet mekânı olan mescide giriş dahi sedd-i zerai kaidesince men ediliyorsa; 21. yüzyılın karma amfi ve plazalarına Hz. Âişe'nin nasıl hüküm vereceğini anlamak basiret ehline zor değildir.",
+    "temalar": ["sedd-i zerai", "Hz. Âişe fermanı", "fitne zamanı tecrit", "mescid ruhsatının şartı"],
+    "modern_uygulama": "Zamanın bozulması sebebiyle kadın ve erkeğin serbestçe karışabileceği ortamlardan kaçınmanın bir takva zarureti olduğunu anlamak."
+  },
+  {
+    "id": "NASS-018",
+    "tur": "hadis",
+    "kaynak": "Ahmed b. Hanbel, el-Müsned, II/69; Nesâî, Zekât 69",
+    "arapca": "ثَلَاثَةٌ قَدْ حَرَّمَ اللَّهُ عَلَيْهِمُ الْجَنَّةَ: مُدْمِنُ الْخَمْرِ، وَالْعَاقُّ، وَالدَّيُّوثُ الَّذِي يُقِرُّ فِي أَهْلِهِ الْخَبَثَ",
+    "turkce": "Üç kişi vardır ki Allah onlara cenneti haram kılmıştır: Sürekli içki içen, ana-babasına âsî olan ve ailesinde kötülüğe ve haram münasebetlere göz yuman DEYYÛS!",
+    "baglam_ve_serh": "Fıkıhta deyyûs; mahremini kıskanmayan, eşinin ve kızının namahrem erkeklerle iç içe bulunmasına, laubali sohbetlerine ses çıkarmayan, kalbinde dinî gayret ateşi sönmüş kimsedir.",
+    "temalar": ["deyyusluk", "gayret", "kıskançlık", "aile muhafazası", "büyük günah"],
+    "modern_uygulama": "Eşinin veya kızının karma plazada erkeklerle gece mesaisine kalmasına, erkek iş arkadaşlarıyla şakalaşmasına razı olan modern kocanın/babanın manevi vahameti."
+  },
+  {
+    "id": "NASS-019",
+    "tur": "hadis",
+    "kaynak": "Buhârî, Nikâh 107; Müslim, Tevbe 34",
+    "arapca": "أَتَعْجَبُونَ مِنْ غَيْرَةِ سَعْدٍ؟ لَأَنَا أَغْيَرُ مِنْهُ، وَاللَّهُ أَغْيَرُ مِنِّي",
+    "turkce": "Resûlullah (s.a.v.) buyurdu: 'Sa'd'ın bu gayretine (kıskançlığına) şaşıyor musunuz? Vallahi ben ondan daha gayretliyim, Allah Teâlâ ise benden daha gayretlidir!'",
+    "baglam_ve_serh": "Gayret (kıskançlık); nefsi koruyan, haramların çiğnenmesine mani olan ilahi bir sıfattır. Allah'ın gayreti ise haram kıldığı sınırların çiğnenmesine gazap etmesidir.",
+    "temalar": ["gayret-i ilahiye", "erkeklik izzeti", "kıskançlık erdemi", "fıtrî şecaat"],
+    "modern_uygulama": "Müslüman erkeğin ailesini kurumsal ve seküler fitnelere karşı kıskanmasını bir fazilet bilmesi; aşağılık kompleksine kapılmaması."
+  },
+  {
+    "id": "NASS-020",
+    "tur": "hadis",
+    "kaynak": "Tirmizî, Radâ 18; İbn Hibbân, Sahîh, 5598",
+    "arapca": "الْمَرْأَةُ عَوْرَةٌ، فَإِذَا خَرَجَتِ اسْتَشْرَفَهَا الشَّيْطَانُ",
+    "turkce": "Kadın avrettir (tamamen gizlenmesi gereken bir varlıktır). O dışarı çıktığı zaman şeytan ona gözünü diker (onu erkeklerin nazarına süslü ve cazip gösterir).",
+    "baglam_ve_serh": "Münâvî *Feyzü'l-Kadîr*de açıklar: Şeytan kadını bizzat ayartmakla kalmaz; onun dışarı çıkışını erkekleri fitneye düşürmek için en kuvvetli silah olarak kullanır. Kadının evinde kalması bu fitneyi kökünden keser.",
+    "temalar": ["kadın avrettir", "şeytanın istişrafı", "fitne tuzağı", "evde kalma fazileti"],
+    "modern_uygulama": "Kamusal alanda ve şirketlerde kadının aşırı görünür kılınmasının ardındaki şeytanî mekanizmayı idrak etmek; lüzumsuz sokağa ve karma ortamlara çıkışları kısmak."
+  },
+  {
+    "id": "NASS-021",
+    "tur": "hadis",
+    "kaynak": "Tirmizî, Edeb 35; Ebû Dâvûd, Tereccül 7; Nesâî, Zînet 35",
+    "arapca": "كُلُّ عَيْنٍ زَانِيَةٌ، وَالْمَرْأَةُ إِذَا اسْتَعْطَرَتْ فَمَرَّتْ بِالْمَجْلِسِ فَهِيَ كَذَا وَكَذَا - يَعْنِي زَانِيَةً",
+    "turkce": "Her göz zâniyedir (harama bakan göz zina eder). Bir kadın koku sürünüp de kokusunu hissetsinler diye bir meclisin/topluluğun yanından geçerse, o da böyledir böyledir (yani zina hükmündedir)!",
+    "baglam_ve_serh": "Kokunun karşı cinsi tahrik etme ve hafızada iz bırakma gücü sebebiyle şeriat, kadının koku sürünerek erkeklerin arasına çıkmasını fahişe fiiline denk tutmuştur.",
+    "temalar": ["koku yasağı", "göz zinası", "koku ile tahrik", "şiddetli nehiy"],
+    "modern_uygulama": "Plazada veya üniversitede parfüm sıkarak erkeklerin yanından geçen kadınların işlediği günahın fıkhî boyutunu görmek; koku tesettürüne riayet."
+  },
+  {
+    "id": "NASS-022",
     "tur": "hadis",
     "kaynak": "Müslim, Libâs 125",
     "arapca": "صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا... وَنِسَاءٌ كَاسِيَاتٌ عَارِيَاتٌ مُمِيلَاتٌ مَائِلَاتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ، لَا يَدْخُلْنَ الْجَنَّةَ وَلَا يَجِدْنَ رِيحَهَا",
@@ -120,7 +220,7 @@
     "modern_uygulama": "Kafasında şal olup üzerinde dar pantolon veya makyajla dolaşan modern prototipin fıkhî tehlikesini görmek; tesettürü süs değil örtü olarak telakki etmek."
   },
   {
-    "id": "NASS-013",
+    "id": "NASS-023",
     "tur": "hadis",
     "kaynak": "Ebû Dâvûd, Libâs 4; Ahmed b. Hanbel, Müsned II, 50",
     "arapca": "مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ",
@@ -128,5 +228,15 @@
     "baglam_ve_serh": "İbn Teymiyye *İktizâu's-Sırâti'l-Müstakîm* adlı eserinde, gayrimüslimlerin veya fasıkların yaşam biçimlerine, ritüellerine, kurumlarına ve adetlerine benzemenin zamanla kalbî muhabbet ve inanç erozyonuna yol açacağını delilleriyle ispatlar.",
     "temalar": ["teşebbüh", "asimilasyon", "kimlik muhafazası", "kültürel emperyalizm"],
     "modern_uygulama": "Batı menşeli açık ofis kültürünü, kurumsal happy hour'ları, uniseks çalışma anlayışını sorgulamadan benimsemekten vazgeçmek; İslami kimliği kurumsal kültüre kurban etmemek."
+  },
+  {
+    "id": "NASS-024",
+    "tur": "rivayet",
+    "kaynak": "Bezzâr, el-Müsned, 526; Heysemî, Mecmeu'z-Zevâid, IX/202; İbn Hacer, el-Metâlibü'l-Âliye, IV/192",
+    "arapca": "مَا خَيْرٌ لِلنِّسَاءِ؟ قَالَتْ فَاطِمَةُ: أَنْ لَا يَرَيْنَ الرِّجَالَ وَلَا يَرَاهُنَّ الرِّجَالُ. فَقَالَ النَّبِيُّ: فَاطِمَةُ بَضْعَةٌ مِنِّي",
+    "turkce": "Resûlullah (s.a.v.) sordu: 'Kadınlar için en hayırlı olan şey nedir?' Hz. Fâtıma (r.anhâ) cevap verdi: 'Kadınların yabancı erkekleri görmemesi ve erkeklerin de onları görmemesidir!' Resûlullah Efendimiz bu cevaba son derece sevinerek: 'Fâtıma benden bir parçadır!' buyurdu.",
+    "baglam_ve_serh": "Seyyidetü'n-Nisâ Hz. Fâtıma'nın bu cevabı; kadın için en yüksek fıtrî ve fıkhî faziletin ihtilattan ve bakışlardan azamî derecede tecrit olmak olduğunu nebevî tasdikiyle tescil etmiştir.",
+    "temalar": ["Hz. Fatıma", "en hayırlı haslet", "nazar izolasyonu", "nebevî tasdik", "fazilet"],
+    "modern_uygulama": "Kadınların erkeklerle yarışmak yerine fıtrî ve vakarlı mahremiyet sahasında kalarak Hz. Fâtıma'nın izini takip etmesi."
   }
 ]

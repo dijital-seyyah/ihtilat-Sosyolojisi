@@ -8,12 +8,52 @@
     "keywords": ["niyet", "maksat", "ameller", "meşruiyet", "hüküm"]
   },
   {
+    "madde_no": 4,
+    "osmanlica": "Şek ile yakîn zâil olmaz.",
+    "arapca_kaide": "اليقين لا يزول بالشك (el-Yakînu lâ yezûlu bi'ş-şekk)",
+    "anlam_ve_serh": "Kesin olarak bilinen bir hüküm veya hal, sonradan ortaya çıkan şüphe ve vesveselerle ortadan kalkmaz. Kesin olan esas alınır.",
+    "ihtilat_ve_calisma_izdusumu": "İslam fıkhında kadının yabancı erkeğe karşı tesettürü ve ihtilat yasağı kat'î (yakînî) nasslarla sabittir. 'Belki bu çağda fitne çıkmaz', 'Belki biz profesyoneliz' gibi zannî ve şüpheli iddialar bu kesin hükmü zâil kılamaz.",
+    "keywords": ["şek", "yakin", "kesinlik", "şüphenin reddi", "sabit ahkam"]
+  },
+  {
+    "madde_no": 8,
+    "osmanlica": "Aslolan berâet-i zimmettir.",
+    "arapca_kaide": "الأصل براءة الذمة (el-Aslu berâetü'z-zimme)",
+    "anlam_ve_serh": "İnsanın borçsuz ve mükellefiyetsiz olması asıldır. Aksine delil bulunmadıkça kişi hür ve masundur.",
+    "ihtilat_ve_calisma_izdusumu": "İslam hukukunda kadının ailesinin nafakasını kazanma gibi bir mükellefiyeti (zimmet borcu) aslen yoktur. Kadını kapitalist piyasada çalışmaya mecbur tutan sistem bu fıtrî aslı ihlal eder.",
+    "keywords": ["beraet-i zimmet", "aslolan", "kadının nafakası", "mükellefiyetsizlik"]
+  },
+  {
+    "madde_no": 9,
+    "osmanlica": "Sıfât-ı ârızada aslolan ademdir.",
+    "arapca_kaide": "الأصل في الصفات العارضة العدم",
+    "anlam_ve_serh": "Sonradan ortaya çıkan geçici vasıfların aslen bulunmadığı kabul edilir; varlığı iddia edenin ispatlaması gerekir.",
+    "ihtilat_ve_calisma_izdusumu": "'Ofis ortamında cinsel meyil ve fitne yoktur' iddiası arızî bir iddiadır; fıtratın aslı şehvet ve meyil potansiyelidir. Dolayısıyla fitnenin olmadığını iddia edenler asılsız bir vehme dayanmaktadırlar.",
+    "keywords": ["sıfat-ı arıza", "fıtrat", "şehvet meyli", "ispat"]
+  },
+  {
     "madde_no": 17,
     "osmanlica": "Meşakkat teysîri celb eder.",
     "arapca_kaide": "المشقة تجلب التيسير (el-Meşakkatü teclibü't-teysîr)",
     "anlam_ve_serh": "Darlık ve sıkıntı halinde şeriat kolaylık hükümlerini devreye sokar. Ancak bu meşakkat, şer'î kaidelere aykırı düşecek keyfi zorluklar değil; mükellefin tahammülünü aşan nesnel zorluklardır.",
     "ihtilat_ve_calisma_izdusumu": "Modernistlerin 'Ayrı çalışmak zor, piyasa karma yapıyı dayatıyor' iddiası bir meşakkat değil, seküler nizama teslimiyettir. Meşakkat, haram olan ihtilatı helal kılmaz; alternatif helal kazanç arayışını emreder.",
     "keywords": ["meşakkat", "kolaylık", "ruhsat", "zorluk", "şeriat"]
+  },
+  {
+    "madde_no": 19,
+    "osmanlica": "Zarar ve mukâbele bi'z-zarar yokdur.",
+    "arapca_kaide": "لا ضرر ولا ضرار (Lâ darara ve lâ dırâr)",
+    "anlam_ve_serh": "İslam dininde ne bidayeten başkasına veya kendine zarar vermek vardır, ne de görülen bir zarara aynı şekilde zararla mukabele etmek meşrudur.",
+    "ihtilat_ve_calisma_izdusumu": "Bir kadının 'Ben kariyer yapmazsam psikolojim bozulur' diyerek dinini tehlikeye atması kendisine zarar vermektir (lâ darar). Şirketin kuralı var diye haramı işlemek de zarardır.",
+    "keywords": ["zarar yok", "la darara", "nefse zarar", "dini muhafaza"]
+  },
+  {
+    "madde_no": 20,
+    "osmanlica": "Zarar izâle olunur.",
+    "arapca_kaide": "الضرر يزال (ed-D唯aru yüzâl)",
+    "anlam_ve_serh": "Vuku bulmuş olan zarar derhal ortadan kaldırılmalıdır. Kötülüğün devamına müsaade edilemez.",
+    "ihtilat_ve_calisma_izdusumu": "Bir iş ortamında laubalilik, siber halvet veya fıkhî sınır aşımı başladığı anda; 'artık girdik bir kere' denilerek devam edilemez; o zarar istifa veya kanalın kapatılmasıyla derhal izale edilir.",
+    "keywords": ["zararın izalesi", "derhal terk", "ortadan kaldırma", "müdahale"]
   },
   {
     "madde_no": 21,
@@ -30,6 +70,14 @@
     "anlam_ve_serh": "Zaruret sebebiyle işlenen yasak, yalnızca o zarureti bertaraf edecek en asgari ölçüde sınırlı tutulmalıdır. Zaruret hududunu aşan her fazlalık derhal asıl hükmü olan haramlığa döner.",
     "ihtilat_ve_calisma_izdusumu": "Zorunlu bir resmi dairede veya acil bir işte kadın ve erkek muhatap olmak zorunda kaldığında; sadece işin gerektirdiği kelime ve saniyeyle yetinilmelidir. Kahve sohbeti, espriler, sosyal arkadaşlık bu kaideyi doğrudan çiğner.",
     "keywords": ["zaruret miktarı", "sınır", "asgari temas", "ölçü", "lüksün reddi"]
+  },
+  {
+    "madde_no": 25,
+    "osmanlica": "Zarar-ı âmmı def' içün zarar-ı hâss ihtiyâr olunur.",
+    "arapca_kaide": "يتحمل الضرر الخاص لدفع ضرر عام",
+    "anlam_ve_serh": "Bütün toplumu ilgilendiren büyük ve genel bir zararı savmak için, bireye ait özel ve küçük zarara katlanılır.",
+    "ihtilat_ve_calisma_izdusumu": "Müslüman bir fert iş bulamayıp dar geçimli kalsa (özel zarar); bu durum, toplumun ahlakının, ailesinin ve neslinin mahvolması olan genel zarardan (zarar-ı âmm) evladır. Bireysel kariyer için ümmetin iffet surları yıkılamaz.",
+    "keywords": ["zarar-ı amm", "zarar-ı hass", "toplumsal ifsat", "bireysel fedakarlık"]
   },
   {
     "madde_no": 26,
@@ -86,6 +134,22 @@
     "anlam_ve_serh": "Zamanın değişmesiyle değişebilecek hükümler, yalnızca örfe ve maslahata dayalı içtihadi tâlî meselelerdir. Dinin temel akidesi, ahlakı, kat'î haramları ve mahremiyet sınırları zamanla asla değişmez.",
     "ihtilat_ve_calisma_izdusumu": "'Devir değişti, artık 21. yüzyıldayız, kadın-erkek ayrımı kalmadı' demek bu kaideyi tahrif etmektir. İhtilat ve halvet yasağı zamana bağlı bir örf değil, vahiyle sabit fıtrî ve kalıcı bir şeriat ilkesidir.",
     "keywords": ["zamanın değişmesi", "değişmeyen ahkam", "kat'i nass", "modernist saptırma"]
+  },
+  {
+    "madde_no": 41,
+    "osmanlica": "Mâni' ile muktezî teâruz etdikde mâni' takdîm olunur.",
+    "arapca_kaide": "إذا تعارض المانع والمقتضي يقدم المانع",
+    "anlam_ve_serh": "Bir eylemi yapmayı gerektiren bir sebep (muktezî) ile onu yapmayı engelleyen şer'î bir mâni karşı karşıya gelirse; engelleyici mâniye öncelik verilir ve o fiil işlenmez.",
+    "ihtilat_ve_calisma_izdusumu": "Muktezî: Para kazanma ve yazılım geliştirme arzusu. Mâni: Kadın-erkek ihtilatı ve haram temas. Mâni olan şer'î yasak takdim edilir ve o ortama girilmez.",
+    "keywords": ["mani", "muktezi", "öncelik", "engelin takdimi"]
+  },
+  {
+    "madde_no": 45,
+    "osmanlica": "Mâni' zâil oldukda memnû' avdet eder.",
+    "arapca_kaide": "إذا زال المانع عاد الممنوع",
+    "anlam_ve_serh": "Bir yasağı geçici olarak mubah kılan engel veya mazeret ortadan kalktığında; asıl yasaklık hükmü derhal geri döner.",
+    "ihtilat_ve_calisma_izdusumu": "Resmi bir dairede veya zorunlu bir tıbbi müdahalede biten zaruret anından sonra; karşı cinsle iletişimi sürdürmek haramlığa rücû eder.",
+    "keywords": ["mani zail oldu", "asıl hükme dönüş", "haramlığın avdeti"]
   },
   {
     "madde_no": 99,

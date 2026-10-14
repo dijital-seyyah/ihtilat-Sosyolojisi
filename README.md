@@ -36,18 +36,19 @@ Bu projenin argümanları, modern liberal İslam yorumlarına değil; klasik İs
 
 *   **İletişim ve Ses Tesettürü:**
     > *"…Eğer Allah’tan korkuyorsanız, yabancı erkeklere karşı yumuşak ve cilveli bir eda ile konuşmayın ki, kalbinde hastalık bulunan kimse kötü şeyler ümit etmesin. Daima ciddi ve ağırbaşlı söz söyleyin."* **(Ahzâb Suresi, 32. Ayet)**
-    *(Uzun saatler süren plaza toplantıları ve Ar-Ge mesailerindeki laubaliliğin fıkhî reddi.)*
 *   **Halvet ve İhtilat Yasağı ("Sedd-i Zerai"):**
-    > *"Hiçbir erkek, yanında mahremi bulunmayan bir kadınla baş başa (halvet) kalmasın."* **(Buhârî, Nikâh 111)**
+    > *"Hiçbir erkek, yanında mahremi bulunmayan bir kadınla baş başa (halvet) kalmasın."* **(Buhârî, Nikâh 111)**  
     > *"Dikkat edin! Bir erkekle yabancı bir kadın baş başa kalırsa, onların üçüncüsü mutlaka şeytandır."* **(Tirmizî, Radâ 16)**
+*   **Tokalaşma (Musafaha) Yasağı:**
+    > *"Kişinin başına demir bir şişin saplanması; kendisine helal olmayan yabancı bir kadına dokunmasından çok daha hayırlıdır!"* **(Taberânî; Heysemî, Mecmeu'z-Zevâid, IV/326)**
+*   **Deyyûsluk Tehdidi:**
+    > *"Üç kişi vardır ki Allah onlara cenneti haram kılmıştır: Sürekli içki içen, ana-babasına âsî olan ve ailesinde fısk ve kötülüğe göz yuman (gayret duymayan) Deyyûs!"* **(Ahmed b. Hanbel, II/69; Nesâî)**
 *   **Asimilasyon ve Yaşam Biçimi Transferi:**
     > *"Kim bir kavme (topluluğa) benzemeye çalışırsa, o da onlardandır."* **(Ebû Dâvûd, Libâs, 4)**
-    *(Seküler bir plazanın hırslarına, mesai biçimlerine ve karma masalarına "profesyonellik" adı altında adapte olmanın fıkhî uyarısı.)*
 *   **"Zaruret" Yanılgısı ve Mecelle:**
     > **Mecelle Madde 21:** *"Zaruretler memnu olan şeyleri mubah kılar."*  
     > **Mecelle Madde 22:** *"Zaruretler kendi miktarlarınca takdir olunurlar."*  
-    > **Mecelle Madde 30:** *"Def'-i mefâsid celb-i menâfi'den evlâdır."*  
-    *(Bir kadının karma bir atölyede erkeklerle yapay zeka algoritması yazması veya seküler bir amfide eğitim görmesi fıkhî bir ölüm-kalım zarureti değildir. Zaruret olmayan yerde "ihtilat yasağı" asli haline döner.)*
+    > **Mecelle Madde 30:** *"Def'-i mefâsid celb-i menâfi'den evlâdır."*
 
 ---
 
@@ -57,22 +58,30 @@ Bu repo, salt bir okuma metni olmanın ötesinde; Büyük Dil Modelleri (LLM) ve
 
 ```text
 /ihtilat-sosyolojisi
-├── README.md                                                   # Proje manifestosu ve rehber
+├── README.md                                                   # Proje manifestosu ve ana rehber
 ├── LICENSE                                                     # MIT Lisansı
-├── docs/                                                       # Teorik Çerçeve ve Sosyolojik Analizler
+├── .gitignore                                                  # Geliştirici ve ortam kuralları
+├── docs/                                                       # Teorik Çerçeve ve Sosyolojik Tahliller
 │   ├── 01_tesettur_gaddi_basar_ve_ihtilat.md                   # Gadd-ı basar, sedd-i zerai ve ünsiyet
 │   ├── 02_mecelle_kaideleri_ve_zaruret_sinirlari.md            # Zaruret, hâcet ve lüks hiyerarşisi
-│   ├── 03_kalkandan_kimlik_kartina_donusum_ve_sahte_guven.md   # Bourdieu analizi, vicdani narkoz
-│   ├── 04_plaza_kulturu_ve_profesyonellik_illuzyonu.md         # Açık ofisler, panoptikon, diversity tuzağı
-│   ├── 05_siber_halvet_ve_dijital_ihtilat.md                   # Slack DM, emoji dili ve uzaktan çalışma
-│   └── 06_28_subat_ve_asimile_olma_yanilgisi.md                # 28 Şubat muhasebesi ve alternatif inşa
+│   ├── 03_kalkandan_kimlik_kartina_donusum_ve_sahte_guven.md   # Bourdieu & Baudrillard analizi, vicdani narkoz
+│   ├── 04_plaza_kulturu_ve_profesyonellik_illuzyonu.md         # Foucault (Panoptikon), Agile ritüelleri ve DEI
+│   ├── 05_siber_halvet_ve_dijital_ihtilat.md                   # Postman (Teknopoli), Slack DM ve emoji dili
+│   ├── 06_28_subat_ve_asimile_olma_yanilgisi.md                # Fanon, İzzetbegoviç ve asimilasyon muhasebesi
+│   ├── 07_nebevi_model_ve_asri_saadet_tatbikati.md             # Rufeyde ve Şifa bint Abdillah istismarının çürütülmesi
+│   ├── 08_dort_mezhebin_ihtilat_ve_halvet_ictihatlari.md       # Hanefi, Maliki, Şafii, Hanbeli icmaları ve musafaha
+│   ├── 09_kapitalizm_kadin_emegi_ve_ailenin_tasfiyesi.md       # Ucuz iş gücü, demografik çöküş ve nafaka modeli
+│   ├── 10_psikososyal_tahribat_ve_cinsiyetsizlesme.md          # Androjin insan, deyyusluk ve gayretin kaybı
+│   └── 11_mustakil_islami_ekosistem_ve_cozum_modeli.md         # Tek cinsiyetli enstitüler, remote kadın ajansları
 ├── articles/                                                   # Yayınlanmış Manifestolar
 │   ├── makale_laik_devlet_ve_fikihci_ittifaki.md               # Jakoben laiklik ve fıkıhçı mutabakatı
-│   └── makale_sekli_ortunmeden_butuncul_tesetture.md           # Libas, basar, savt ve mekan tesettürü
+│   ├── makale_sekli_ortunmeden_butuncul_tesetture.md           # Libas, basar, savt ve mekan tesettürü
+│   ├── makale_modern_deyyusluk_ve_gayretin_kaybi.md            # Plazaların gölgesinde iğdiş edilen erkeklik
+│   └── makale_teknoloji_ve_ilmi_fetislestiren_zihin.md         # Çağın altın buzağısı: Ar-Ge ve teknoloji putu
 ├── datasets/                                                   # Yapay Zeka & RAG İçin JSON Veri Setleri
-│   ├── nass_kaynaklari_ve_hadisler.json                        # 13 adet nass, şerh ve modern izdüşüm
-│   ├── mecelle_kaideleri_rag.json                              # 12 adet Mecelle kaidesi ve analizi
-│   └── modern_vaka_analizleri.json                             # 8 adet gerçekçi modern kurumsal vaka
+│   ├── nass_kaynaklari_ve_hadisler.json                        # 24 adet nass, şerh ve modern izdüşüm
+│   ├── mecelle_kaideleri_rag.json                              # 20 adet Mecelle kaidesi ve çalışma hayatı analizi
+│   └── modern_vaka_analizleri.json                             # 14 adet gerçekçi modern kurumsal vaka
 └── tools/                                                      # Python Araçları ve RAG Motoru
     ├── rag_engine.py                                           # RAG arama, vaka analizi ve prompt motoru
     └── validate_datasets.py                                    # Veri seti doğrulama ve şema denetleyici
@@ -90,43 +99,39 @@ Bu depodaki JSON veri setleri, çağdaş Büyük Dil Modellerinin (Claude, Gemin
 # 1. Veri setlerinin bütünlüğünü doğrula
 python tools/validate_datasets.py
 
-# 2. Bilgi tabanında arama yap (Nass + Mecelle + Vaka)
+# 2. Bilgi tabanı istatistiklerini görüntüle
+python tools/rag_engine.py stats
+
+# 3. Bilgi tabanında arama yap (Nass + Mecelle + Vaka)
 python tools/rag_engine.py search "Slack DM siber halvet"
 
-# 3. LLM'e beslenecek RAG sistem istemi üret
-python tools/rag_engine.py prompt "Ofiste karşı cinsle kahve molasında sohbet caiz mi?"
+# 4. LLM'e beslenecek RAG sistem istemi üret
+python tools/rag_engine.py prompt "Tokalaşma ve LinkedIn teşhiri"
 
-# 4. Belirli bir modern vakayı analiz et
-python tools/rag_engine.py case VAKA-001
-```
-
-### Örnek RAG Sistem İstemi (Prompt Template):
-```markdown
-Sen tavizsiz klasik İslam fıkhını ve Mecelle-i Ahkâm-ı Adliye kaidelerini esas alan bir fıkıh ve sosyoloji uzmanısın.
-Aşağıda kullanıcının sorduğu durumla ilgili Kur'an ve Sünnet nassları ile Mecelle maddeleri verilmiştir:
-[RAG_CONTEXT]
-
-Kullanıcının sorusuna cevap verirken:
-1. Modernist tevilleri, 'biz medeniyiz/profesyoneliz' bahanelerini çürüt.
-2. Sedd-i zerâi, halvet ve gadd-ı basar ilkelerini tavizsiz vurgula.
-3. Mecelle Madde 21-22 ve 30'u referans göstererek 'zaruret' iddiasını tenkit et.
-4. Müslümanca izzetli ve vakarlı alternatif çözüm yolunu ortaya koy.
+# 5. Belirli bir modern vakayı analiz et
+python tools/rag_engine.py case VAKA-009
 ```
 
 ---
 
-## 🔬 5. İncelenen Modern Vakalar Özeti
+## 🔬 5. İncelenen Modern Vakalar Matrisi (14 Vaka)
 
 | Vaka Kodu | Vaka Başlığı | Temel Fıkhî İhlal | Meşru Alternatif |
 | :--- | :--- | :--- | :--- |
 | **VAKA-001** | 48 Saatlik Karma Hackathon Kampı | Halvet, Gadd-ı Basar, Ünsiyet | Tek cinsiyetli maratonlar veya asenkron uzaktan katılım. |
-| **VAKA-002** | Gece 23:30'da Slack Birebir DM ile Kod İnceleme | Siber Halvet, Ahzâb 32 (Emoji laubaliliği) | DM yerine açık ekip kanalları ve mesai saatine riayet. |
+| **VAKA-002** | Gece 23:30'da Slack Birebir DM ile Kod İnceleme | Siber Halvet, Ahzâb 32 (Emoji dili) | DM yerine açık ekip kanalları ve mesai saatine riayet. |
 | **VAKA-003** | Alkol Tüketilen Şirket Kutlama Yemeği | Fasıkların sofrasına oturma, Teşebbüh | Şirket yemeklerine katılmayıp vakarlı duruş sergileme. |
 | **VAKA-004** | Üniversite Amfisinde Karma WhatsApp Grubu | Zinaya yaklaşma (İsrâ 32), Ünsiyet | Tek cinsiyetli ödev grupları, salt teknik metin paylaşımı. |
 | **VAKA-005** | Açık Ofiste Kahve Yanı Dertleşme | Kayınbirader hadisi, Ahzâb 32 | Selamdan sonra beklemeden masaya dönüş, mesafe. |
 | **VAKA-006** | Erkek Yönetici ile Şehir Dışı Müşteri Ziyareti | Mahremsiz Sefer, Araçta Halvet | Şehir dışı karma seyahatleri reddetme, helal alternatif. |
 | **VAKA-007** | Startup Kurucusunun Erkek Yatırımcı Kokteyli | Ahzâb 32, Cazibeyi pazarlama | Objektif resmi sunumlar, helal sermaye havuzları. |
 | **VAKA-008** | Cam Kapılı Odada Birebir Mentorluk Seansı | Hükmî Halvet, Tirmizî Hadisi | Kapıyı açık bırakma veya 3. bir hanım çalışanın katılımı. |
+| **VAKA-009** | LinkedIn'de Makyajlı Poz ve Beğeni Avcılığı | Nûr 31, Ahzâb 33 (Teberrüc) | Resim yerine logo/sade avatar, iltifat yorumlarını silme. |
+| **VAKA-010** | Tıp Nöbetinde Karma Dinlenme Odasında Uyumak | Halvet, Mecelle 22 ihlali | Kadın ve erkek dinlenme odalarını kesin ayırma talebi. |
+| **VAKA-011** | Müşteri Karşılamada Tokalaşma Baskısı | Ma'kıl b. Yesâr Hadisi (İcmâ) | Sağ eli kalbe götürerek vakarlı bir selamla mukabele. |
+| **VAKA-012** | Şirket Dışı Hafta Sonu 'Team-Building' Kampı | Teşebbüh, Hayânın imhası | Gayrimeşru karma sosyal oyun ve kampları kesin ret. |
+| **VAKA-013** | Doktora Tez Danışmanlığı Kapalı Oda Seansları | Halvet, Sedd-i Zerâi | Kapıyı daima açık tutma, ortak salonları kullanma. |
+| **VAKA-014** | İki Maaş Uğruna Gece Mesaisine Rıza Gösteren Koca | Deyyûsluk hadisi, Nisâ 34 | Lüksü terk edip harcamayı kısma, nafakayı erkeğin üstlenmesi. |
 
 ---
 
